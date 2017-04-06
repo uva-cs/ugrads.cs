@@ -26,7 +26,7 @@ LINKS = (('UVa CS', 'http://www.cs.virginia.edu'),
          ('SIS login','https://sisuva.admin.virginia.edu/psp/epprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST'),)
 
 # Social widget
-SOCIAL = (('Facebook (maintained by students)', 'https://www.facebook.com/groups/216856585086114'),
+SOCIAL = (('Facebook (by students)', 'https://www.facebook.com/groups/216856585086114'),
           ('Offical UVa CS page', 'https://www.facebook.com/uvacomputerscience'),
           ('Github','https://github.com/uva-cs'),
           ('Twitter feed: @CS_UVa','https://twitter.com/cs_uva'),
