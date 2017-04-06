@@ -3,7 +3,7 @@ url: index.html
 save_as: index.html
 sortorder: 1
 
-This page contains the links that are releavant for undergraduate majors in Computer Science.
+This page contains the links that are releavant for undergraduate majors in Computer Science and Computer Engineering.
 
 Fall 2017 specific links
 ------------------------
