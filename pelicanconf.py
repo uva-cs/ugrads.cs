@@ -27,7 +27,7 @@ LINKS = (('UVa CS', 'http://www.cs.virginia.edu'),
 
 # Social widget
 SOCIAL = (('Facebook (by students)', 'https://www.facebook.com/groups/216856585086114'),
-          ('Offical UVa CS page', 'https://www.facebook.com/uvacomputerscience'),
+          ('Offical UVa CS page', 'https://www.facebook.com/uvacs'),
           ('Github','https://github.com/uva-cs'),
           ('Twitter feed: @CS_UVa','https://twitter.com/cs_uva'),
           ('LinkedIn account','https://www.linkedin.com/groups/3998950'),
