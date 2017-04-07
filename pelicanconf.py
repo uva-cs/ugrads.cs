@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Aaron Bloomfield'
 SITENAME = u'Undergrad CS Resources @ UVa'
-SITEURL = 'http://libra.cs.virginia.edu/ugrads'
+SITEURL = 'http://ugrads.cs.virginia.edu'
 
 PATH = 'content'
 
