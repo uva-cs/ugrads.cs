@@ -7,3 +7,4 @@ sortorder: 2
     - And the [High School Programming Contest](http://acm.cs.virginia.edu/hspc.php) group
 - [Code for Good](http://codeforgooduva.weebly.com/)
 - [hack.uva](http://hackuva.io)
+- [Student Game Developers](http://sgd.cs.virginia.edu/)
