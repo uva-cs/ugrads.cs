@@ -7,7 +7,7 @@
 <?php
 ob_end_flush();
 flush();
-$commands = array('git pull', '/bin/rm -rf output','mkdir output','touch output/empty','touch output/.gitignore','git checkout output/.gitignore','pelican content','/bin/rm -rf ../ugrads','cp -a output ../ugrads');
+$commands = array('git pull', '/bin/rm -rf output','mkdir output','touch output/empty','touch output/.gitignore','git checkout output/.gitignore','pelican content','cp instagram.png output/theme/images/icons/','patch output/theme/css/main.css instagram.patch','/bin/rm -rf ../ugrads','cp -a output ../ugrads');
 $commanddir = "/home/www/ugrads.cs";
 $path = "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";
 

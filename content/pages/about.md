@@ -11,7 +11,7 @@ Faculty can request to be allowed to directly edit the contents of the
 git repo.  They can edit either via git or by editing online directly
 via github.com.  Students can suggest changes by submitting a [pull
 request](https://help.github.com/articles/about-pull-requests/) or by
-emailng the contact above.
+emailing the contact above.
 
 The actual HTML pages are built using
 [Pelican](http://getpelican.com/) version 3.7.1, and the source is in
@@ -31,3 +31,7 @@ locally (browse to http://localhost:8000).  You will likely have to
 change the `SITEURL` field in pelicanconf.py to
 `http://localhost:8000` to view it locally.
 
+Lastly, we know that the look of this website is rather... bland.
+Both the CS website and the SEAS website are getting a complete
+re-design in the summer of 2017.  Once that is done, this website will
+be styled to look the same.

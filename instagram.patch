@@ -1,0 +1,10 @@
+--- main.css~	2017-04-05 20:08:06.970864000 -0400
++++ main.css	2017-04-12 00:11:27.116043187 -0400
+@@ -326,6 +326,7 @@
+ 		.social a[href*='hackernewsers.com'] {background-image: url('../images/icons/hackernews.png');}
+ 		.social a[href*='last.fm'], .social a[href*='lastfm.'] {background-image: url('../images/icons/lastfm.png');}
+ 		.social a[href*='linkedin.com'] {background-image: url('../images/icons/linkedin.png');}
++		.social a[href*='instagram.com'] {background-image: url('../images/icons/instagram.png');}
+ 		.social a[href*='reddit.com'] {background-image: url('../images/icons/reddit.png');}
+ 		.social a[type$='atom+xml'], .social a[type$='rss+xml'] {background-image: url('../images/icons/rss.png');}
+ 		.social a[href*='slideshare.net'] {background-image: url('../images/icons/slideshare.png');}

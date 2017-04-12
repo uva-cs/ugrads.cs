@@ -48,7 +48,7 @@ School and University links
 Connect with us and other majors
 --------------------------------
 
-- [CS Advising on Piazza](https://piazza.com/virginia/other/csadvising)
+- [CS Advising on Piazza](https://piazza.com/virginia/other/csadvising): anybody can join, and it's a great place to ask advising questions
 - [CS @ UVa slack channel](https://uva-compsci.slack.com/)
 - [Facebook group](https://www.facebook.com/groups/216856585086114) that anybody can post to
-- [Computing jobs mailing list](https://collab.itc.virginia.edu/portal/site/c4e021cd-5ac5-4901-b1a3-3a99396dbd7d#) (join the Collab group; job announcements are emailed regularly)
+- [Computing jobs mailing list](https://collab.itc.virginia.edu/portal/site/c4e021cd-5ac5-4901-b1a3-3a99396dbd7d#): anybody can join the Collab group, and job announcements are emailed regularly
