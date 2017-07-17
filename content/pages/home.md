@@ -40,7 +40,7 @@ School and University links
 ---------------------------
 
 - SEAS links: [undergraduate handbook](http://www.seas.virginia.edu/advising/pdf/seas-undergraduate-handbook2016.pdf) (PDF),
-  [transfer equivalents](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2016.pdf) (PDF),
+  [transfer equivalents for 2017](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2017.pdf) (PDF),
   [elective policies](http://www.seas.virginia.edu/undergrad/orientation/pdfs/electives_2016.pdf) (PDF)
 - CLAS links: [Degree requirements](http://college.as.virginia.edu/requirements)
 
