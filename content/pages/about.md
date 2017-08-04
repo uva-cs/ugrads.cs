@@ -24,11 +24,11 @@ changed on github.com.
 Should you want to build the pages on your local machine, look at the
 [Pelican quickstart guide](http://docs.getpelican.com/en/3.7.1/quickstart.html).
 The quick overview is that you run `sudo pip install pelican markdown`
-to install it, `pelican content -t theme/notmyidea/` to generate the
+to install it, `pelican content -t theme/uvaeng/` to generate the
 HTML files, and `python -m pelican.server` from the output/ directory
 to be able to view it locally (browse to http://localhost:8000).
 
-Lastly, we know that the look of this website is rather... bland.
-Both the CS website and the SEAS website are getting a complete
-re-design in the summer of 2017.  Once that is done, this website will
-be styled to look the same.
+The design of this website was taken from the new (as of August 2017)
+UVa Engineering website, and the look and feel is intentionally meant
+to be the same.  All extra .css and .js files (including trackers)
+were removed.
