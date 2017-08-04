@@ -22,14 +22,11 @@ site is automatically rebuilt every time content in the git repo is
 changed on github.com.
 
 Should you want to build the pages on your local machine, look at the
-[Pelican quickstart
-guide](http://docs.getpelican.com/en/3.7.1/quickstart.html).  The
-quick overview is that you run `sudo pip install pelican markdown` to
-install it, `pelican content` to generate the HTML files, and `python
--m pelican.server` from the output/ directory to be able to view it
-locally (browse to http://localhost:8000).  You will likely have to
-change the `SITEURL` field in pelicanconf.py to
-`http://localhost:8000` to view it locally.
+[Pelican quickstart guide](http://docs.getpelican.com/en/3.7.1/quickstart.html).
+The quick overview is that you run `sudo pip install pelican markdown`
+to install it, `pelican content -t theme/notmyidea/` to generate the
+HTML files, and `python -m pelican.server` from the output/ directory
+to be able to view it locally (browse to http://localhost:8000).
 
 Lastly, we know that the look of this website is rather... bland.
 Both the CS website and the SEAS website are getting a complete

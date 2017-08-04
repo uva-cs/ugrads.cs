@@ -37,7 +37,7 @@ SOCIAL = (('Facebook (by students)', 'https://www.facebook.com/groups/2168565850
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 ARTICLE_ORDER_BY = 'sortorder'
 PAGE_ORDER_BY = 'sortorder'
