@@ -10,9 +10,7 @@ Fall 2017 specific links
 
 These are the links that change each semester.
 
-- [Class registration dates for fall 2017](https://docs.google.com/document/d/1yO90x1yMk0goI5-3qz9BRUHqkVrzezF2bFc1tLMlsO8/edit?usp=sharing): this is when the courses open for the various categories of students (majors, minors, non-majors/minors, etc.)
-- [CS 4501 course descriptions](https://docs.google.com/document/d/1giOPnf8G2ejB_N6mwcUoUgQ4uJZVHGmvz_PpUJgc-hk/edit?usp=sharing) for the fall 2017
-- [TA application link](https://goo.gl/forms/oiNUilIvP2VEQWE72) for fall 2017
+- [CS 4501 course descriptions](https://docs.google.com/document/d/1giOPnf8G2ejB_N6mwcUoUgQ4uJZVHGmvz_PpUJgc-hk/edit?usp=sharing) for fall 2017
 
 General links
 -------------

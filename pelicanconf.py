@@ -24,7 +24,9 @@ AUTHOR_FEED_RSS = None
 LINKS = (('UVa CS', 'http://www.cs.virginia.edu'),
          ('UVa', 'http://virginia.edu'),
          ('UVa Collab','https://collab.itc.virginia.edu/portal'),
-         ('SIS login','https://sisuva.admin.virginia.edu/psp/epprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST'),)
+         ('SIS login','https://sisuva.admin.virginia.edu/psp/epprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST'),
+         ('CS courses','http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci'),
+)
 
 # Social widget
 SOCIAL = (('Facebook (by students)', 'https://www.facebook.com/groups/216856585086114'),
