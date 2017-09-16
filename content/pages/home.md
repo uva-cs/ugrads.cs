@@ -17,13 +17,13 @@ General links
 
 - [Information for New Undergraduate Computing Majors](https://www.cs.virginia.edu/~sherriff/newcs/): read this is you have just been accepted into the major
 - [Possible undergraduate research projects](http://ugresearch.cs.virginia.edu/) for those who want to get involved in undergraduate research, or those looking for a senior thesis topic
+    - A [list of CS faculty](https://engineering.virginia.edu/departments/computer-science/cs-people/faculty) who are the ones who posted those topics
 - [Computer Science Grad Student Job Application & Interview Guide](http://www.cs.virginia.edu/~weimer/grad-job-guide/guide/index.html) by [Westley Weimer](http://www.cs.virginia.edu/~weimer/)
 
 Academic links
 --------------
 
-- [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (PDF); this is hosted in a [github repo](https://github.com/uva-cs/ugrad-handbook/)
-    - Chapter 6 has information about the Masters program
+- [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (PDF); this is hosted in a [github repo](https://github.com/uva-cs/ugrad-handbook/) (chapter 6 has information about the Masters program)
 - [CS Advising dashboard](http://stardock.cs.virginia.edu/advising/) is a overview of the topics and questions that often come up during student advising
 - [CS departmental academic pages](https://engineering.virginia.edu/departments/computer-science/academics), which gives an overview of the majors and minor within the department
 - [Lou's List for Computer Science](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci) which lists the courses offered for each semester
