@@ -5,12 +5,11 @@ sortorder: 1
 
 This page contains the links that are releavant for undergraduate majors in Computer Science and Computer Engineering.
 
-Fall 2017 specific links
+Spring 2018 specific links
 ------------------------
 
-These are the links that change each semester.
+- [Lou's List: CS courses for spring 2018](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1182&Type=Group&Group=CompSci)
 
-- [CS 4501 course descriptions](https://docs.google.com/document/d/1giOPnf8G2ejB_N6mwcUoUgQ4uJZVHGmvz_PpUJgc-hk/edit?usp=sharing) for fall 2017
 
 General links
 -------------
@@ -19,6 +18,7 @@ General links
 - [Possible undergraduate research projects](http://ugresearch.cs.virginia.edu/) for those who want to get involved in undergraduate research, or those looking for a senior thesis topic
     - A [list of CS faculty](https://engineering.virginia.edu/departments/computer-science/cs-people/faculty) who are the ones who posted those topics
 - [Computer Science Grad Student Job Application & Interview Guide](http://www.cs.virginia.edu/~weimer/grad-job-guide/guide/index.html) by [Westley Weimer](http://www.cs.virginia.edu/~weimer/)
+
 
 Academic links
 --------------
