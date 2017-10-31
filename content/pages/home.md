@@ -9,6 +9,7 @@ Spring 2018 specific links
 ------------------------
 
 - [Lou's List: CS courses for spring 2018](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1182&Type=Group&Group=CompSci)
+- [CS 4501 course descriptions](http://www.cs.virginia.edu/~cohoon//years/2018/2018-spring-4501s/) for the spring 2018 semester
 
 
 General links
@@ -35,6 +36,7 @@ Academic links
 The [list at this link](https://goo.gl/rPQGzW) courses for which students' petitions have been approved, and a also courses for which we've said "no”.
     - If you want one of these to count for you, you must complete the [form at this link](https://goo.gl/forms/yukq3PC6oQxh25LY2).
     - Use this same form if you want to petition for a course that’s not on any list.  See the form for information about what might count and what justification you must provide.
+- Transfer credits for CS classes taken elsewhere: see [here](http://ascs8.eservices.virginia.edu/asEquivs) for a search form for the College, and [here](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2017.pdf) for a PDF from the Engineering school.  Students still need to complete a form before they take the course (see Jesse Rogers or Joe Rehder in the Engineering undergraduate office)
 
 School and University links
 ---------------------------
