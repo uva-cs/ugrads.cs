@@ -38,6 +38,7 @@ The [list at this link](https://goo.gl/rPQGzW) courses for which students' petit
     - If you want one of these to count for you, you must complete the [form at this link](https://goo.gl/forms/yukq3PC6oQxh25LY2).
     - Use this same form if you want to petition for a course that’s not on any list.  See the form for information about what might count and what justification you must provide.
 - Transfer credits for CS classes taken elsewhere: see [here](http://ascs8.eservices.virginia.edu/asEquivs) for a search form for the College, and [here](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2017.pdf) for a PDF from the Engineering school.  Students still need to complete a form before they take the course (see Jesse Rogers or Joe Rehder in the Engineering undergraduate office)
+- Information about a 5-Year Masters Plan: [https://engineering.virginia.edu/departments/computer-science/academics/admissions/cs-graduate-admission/fifth-year-masters-faq](https://engineering.virginia.edu/departments/computer-science/academics/admissions/cs-graduate-admission/fifth-year-masters-faq)
 
 School and University links
 ---------------------------
