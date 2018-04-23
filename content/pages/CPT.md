@@ -26,7 +26,8 @@ CS faculty member, then that’s a good use for CS 4993 credit.
 ----
 
 UNST 2820 (Seminar), Internship for Credit
-1 credit
+(1 credit)
+
 SIS Description: This course is designed to support you as you complete your internship and help you reflect on and learn
 from your experience. Students who pursue a non-paying summer internship that requires them to receive academic credit can
 earn credit through this course.
