@@ -5,10 +5,10 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-Fall 2019 specific links
+Fall 2018 specific links
 ------------------------
 
-- [Lou's List: CS courses for Fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1188&Type=Group&Group=CompSci)
+- [Lou's List: CS courses for Fall 2018](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1188&Type=Group&Group=CompSci)
 - [CS 4501 course descriptions](http://www.cs.virginia.edu/~cohoon//years/2018/2018-spring-4501s/) for the spring 2018 semester
 - [CS Course Enrollment Dates](https://docs.google.com/document/d/1r6q1_2A1sP9cTFlWsUAf8_zJnUfla6syaBenICYe7ac/edit) for when various groups of students can register
 
