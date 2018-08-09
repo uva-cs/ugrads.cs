@@ -3,12 +3,12 @@ url: index.html
 save_as: index.html
 sortorder: 1
 
-This page contains the links that are releavant for undergraduate majors in Computer Science and Computer Engineering.
+This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-Spring 2018 specific links
+Fall 2019 specific links
 ------------------------
 
-- [Lou's List: CS courses for spring 2018](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1182&Type=Group&Group=CompSci)
+- [Lou's List: CS courses for Fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1188&Type=Group&Group=CompSci)
 - [CS 4501 course descriptions](http://www.cs.virginia.edu/~cohoon//years/2018/2018-spring-4501s/) for the spring 2018 semester
 - [CS Course Enrollment Dates](https://docs.google.com/document/d/1r6q1_2A1sP9cTFlWsUAf8_zJnUfla6syaBenICYe7ac/edit) for when various groups of students can register
 
@@ -32,7 +32,7 @@ Academic links
 - [Generic CS department class registration policy](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/registration) which is the policy used when allowing students to enroll in courses
 - Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](https://cs1110.cs.virginia.edu/whichcs1.html) and [CS 2110 placement exams](http://cs1110.cs.virginia.edu/CS2110-Placement-Test-Info-aug2016.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit
 - The undergraduate record for the [BS CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5227), [BA CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5226), and the [BS CpE](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5225)
-- BA CS integration electives: there are two separate lists: the [one on the departmental website](https://engineering.virginia.edu/departments/computer-science/academics/ba-computer-science#accordion67812), and the one in section 3.3.3 of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf).  The BA CS committee is working on synchronizing those two lists, but that will likely not happen until the fall of 2017.  Until then, students may take any course on either of those two lists, and it will count as an integration elective.
+- BA CS integration electives: there are two separate lists: the [one on the departmental website](https://engineering.virginia.edu/departments/computer-science/academics/ba-computer-science#accordion67812), and the one in section 3.3.3 of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf).  The BA CS committee is working on synchronizing those two lists, but that will likely not happen until the fall of 2018.  Until then, students may take any course on either of those two lists, and it will count as an integration elective.
     - Can a course not on the list count?  Other students have made such petitions, so it's possible a course you're interested in has been successfully petitioned (or unsuccessfully petitioned) by another student.  
 The [list at this link](https://goo.gl/rPQGzW) courses for which students' petitions have been approved, and a also courses for which we've said "no”.
     - If you want one of these to count for you, you must complete the [form at this link](https://goo.gl/forms/yukq3PC6oQxh25LY2).
