@@ -6,7 +6,7 @@ sortorder: 100
 
 This document was approved as an official guideline for the CS department and its associated courses by vote of the CS faculty on 2019-02-18.
 
-# CS Grading Guidelines
+## CS Grading Guidelines
 
 The giving of grades is a well-established component of our educational system, but the meaning of those grades is not. In an effort to provide some clarity and consistency, the CS department provides the following guidelines. These guidelines are not a grading system, but rather definitions which resulting grades should approximate. Individual courses may establish different definitions in their beginning-of-course memo. Using the definitions in this document will help students understand which subsequent courses and experiences they are prepared to excel in and which they are not yet ready to undertake.
 
