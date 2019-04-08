@@ -5,12 +5,11 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-Spring 2019 specific links
---------------------------
+Fall 2019 specific links
+------------------------
 
-- [Lou's List: CS courses for spring 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci)
-- [CS Course Enrollment Dates](https://docs.google.com/document/d/1v8pGPhglI-iejQJ7B4a4GkL5kuRxCDh2sVvU7eryijA/edit) for when various groups of students can register
-
+- [Lou's List: CS courses for fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci)
+- [CS Course Enrollment Dates](https://docs.google.com/document/d/1UPtqg29L9AbnpggPn9ySJRe0X4ikTRkhJNON5L-dheg)
 
 General links
 -------------

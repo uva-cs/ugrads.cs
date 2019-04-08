@@ -10,3 +10,5 @@ sortorder: 2
 - [Student Game Developers](http://sgd.cs.virginia.edu/) for those interested in developing games
 - [Computer Network and Security Club](https://cnsatuva.github.io) is a group of students "interested in software, network, hardware, and application security"
 - [hack.uva](http://hackuva.io) is a locak UVa hack-a-thon
+- [Virginia Blockchain](https://virginiablockchain.github.io) focuses on cryptocurrency
+
