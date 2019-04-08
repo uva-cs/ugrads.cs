@@ -10,6 +10,7 @@ Fall 2019 specific links
 
 - [Lou's List: CS courses for fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci)
 - [CS Course Enrollment Dates](https://docs.google.com/document/d/1UPtqg29L9AbnpggPn9ySJRe0X4ikTRkhJNON5L-dheg)
+- [Apply to be a Teaching Assistant for Fall 2019](https://forms.gle/oLqu5khjXmGhF3er5)
 
 General links
 -------------
