@@ -8,6 +8,9 @@ This page contains the links that are relevant for undergraduate majors in Compu
 Fall 2019 specific links
 ------------------------
 
+- [Helpful Info for All CS Students 2019](http://ugrads.cs.virginia.edu/materials/CSHelpfulInfo-2019.pdf)
+- [Helpful Info for BSCS Students 2019](http://ugrads.cs.virginia.edu/materials/BSCS-Info-2019.pdf)
+- [Helpful Info for BACS Students 2019](http://ugrads.cs.virginia.edu/materials/BACS-Info-2019.pdf)
 - [Lou's List: CS courses for fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci)
 - [CS Course Enrollment Dates](https://docs.google.com/document/d/1UPtqg29L9AbnpggPn9ySJRe0X4ikTRkhJNON5L-dheg)
 - [Apply to be a Teaching Assistant for Fall 2019](https://forms.gle/oLqu5khjXmGhF3er5)
