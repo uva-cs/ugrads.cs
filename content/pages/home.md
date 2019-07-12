@@ -15,6 +15,8 @@ Fall 2019 specific links
 - [CS Course Enrollment Dates](https://docs.google.com/document/d/1UPtqg29L9AbnpggPn9ySJRe0X4ikTRkhJNON5L-dheg)
 - [Apply to be a Teaching Assistant for Fall 2019](https://forms.gle/oLqu5khjXmGhF3er5)
 - [Information about the CS 2020 Pilot Curriculum Program](http://pilot.cs.virginia.edu)
+- [Information about which CS 1 course to take and the CS 1110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2019.pdf)
+- [Information about the CS 2110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2019.pdf) 
 
 General links
 -------------
@@ -34,7 +36,7 @@ Academic links
 - [Lou's List for Computer Science](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci) which lists the courses offered for each semester
 - [Generic CS department class registration policy](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/registration) which is the policy used when allowing students to enroll in courses
 - [CS Grading Guidelines](//ugrads.cs.virginia.edu/grading-guidelines.html) as approved by the CS faculty to help normalize grading practices across CS courses
-- Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](https://cs1110.cs.virginia.edu/whichcs1.html) and [CS 2110 placement exams](http://cs1110.cs.virginia.edu/CS2110-Placement-Test-Info-aug2016.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit
+- Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2019.pdf) (PDF) and [CS 2110 placement exams](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2019.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit.
 - The undergraduate record for the [BS CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5227), [BA CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5226), and the [BS CpE](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5225)
 - BA CS integration electives: there are two separate lists: the [one on the departmental website](https://engineering.virginia.edu/departments/computer-science/academics/ba-computer-science#accordion67812), and the one in section 3.3.3 of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf).  The BA CS committee is working on synchronizing those two lists, but that will likely not happen until the fall of 2018.  Until then, students may take any course on either of those two lists, and it will count as an integration elective.
     - Can a course not on the list count?  Other students have made such petitions, so it's possible a course you're interested in has been successfully petitioned (or unsuccessfully petitioned) by another student.  
