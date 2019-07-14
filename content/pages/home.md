@@ -22,7 +22,7 @@ General links
 -------------
 
 - [Information for New Undergraduate Computing Majors](https://www.cs.virginia.edu/~sherriff/newcs/): read this is you have just been accepted into the major
-- [Possible undergraduate research projects](http://ugresearch.cs.virginia.edu/) for those who want to get involved in undergraduate research, or those looking for a senior thesis topic
+- [Possible undergraduate research projects](http://research.cs.virginia.edu/) for those who want to get involved in undergraduate research, or those looking for a senior thesis topic
     - A [list of CS faculty](https://engineering.virginia.edu/departments/computer-science/cs-people/faculty) who are the ones who posted those topics
 - [Computer Science Grad Student Job Application & Interview Guide](http://www.cs.virginia.edu/~weimer/grad-job-guide/guide/index.html) by [Westley Weimer](http://www.cs.virginia.edu/~weimer/)
 
