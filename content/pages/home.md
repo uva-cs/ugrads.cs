@@ -5,8 +5,8 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-Fall 2019 specific links
-------------------------
+Information for Fall 2019
+-------------------------
 
 - [Helpful Info for All CS Students 2019](http://stardock.cs.virginia.edu/seas/CSHelpfulInfo-2019.pdf)
 - [Helpful Info for BSCS Students 2019](http://stardock.cs.virginia.edu/seas/BSCS-Info-2019.pdf)
