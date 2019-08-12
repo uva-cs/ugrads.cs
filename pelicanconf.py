@@ -34,7 +34,9 @@ SOCIAL = (('Facebook (by students)', 'https://www.facebook.com/groups/2168565850
           ('Github','https://github.com/uva-cs'),
           ('Twitter feed: @CS_UVa','https://twitter.com/cs_uva'),
           ('LinkedIn account','https://www.linkedin.com/groups/3998950'),
-          ('Instagram','https://www.instagram.com/uva_cs/'),)
+          ('Instagram','https://www.instagram.com/uva_cs/'),
+          ('Slack','https://app.slack.com/client/T1ZBDCSPP/C1ZB3JK6Y'),
+         )
 
 DEFAULT_PAGINATION = 10
 
