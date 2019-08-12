@@ -40,4 +40,4 @@ div[class='social'] a {
 .social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
 .social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png');}
 .social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
-.social a[href*='slack.com'] {background-image: url('../images/icons/slack.png');}
+.social a[href*='slack.com'] {background-image: url('../images/icons/slack.png'); background-size: 16px 16px; }
