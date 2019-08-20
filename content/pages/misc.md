@@ -16,5 +16,7 @@ In practice, CS faculty almost never offer UNST 2820 as it is extra (i.e. unrewa
 The CS Director of Diversity and Inclusion (DDI, currently Luther Tychonievich) is the primary point of contact for such incidents.
 The CS department also maintains a [diversity committee](https://engineering.virginia.edu/departments/computer-science/about-computer-science/diversity-department-computer-science), any member of which should be able to help if the DDI is not a good pick for you.
 
-The university also has a system for reporting incidents: <https://justreportit.virginia.edu/>.
-You may also be able to find assistance from academic and research advisors, department chairs, and deans, though often they will refer incidents back to one of the diversity-focused individuals or groups listed above.
+The university also has a system for reporting incidents: <https://justreportit.virginia.edu/>;
+and ombuds who can help with many kinds of problems, not just discrimination: <https://eocr.virginia.edu/ombuds/>.
+The CS department also has an internal ombud focussed exclusively on graduate students, listed under "Department Organization" in the [CS graduate handbook](https://libra.cs.virginia.edu/handbook/grad-handbook.pdf).
+You may also be able to find assistance from academic and research advisors, department chairs, and deans, though they may refer incidents back to one of the diversity-focused individuals or groups listed above.
