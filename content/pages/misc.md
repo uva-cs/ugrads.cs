@@ -5,7 +5,6 @@ sortorder: 1
 
 [TOC]
 
-
 ## Can I get credit for my internship?
 
 The UVA rules about this are in the section “Academic Departments” on this page: <https://career.virginia.edu/internship/academic-credit>
