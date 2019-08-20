@@ -45,3 +45,5 @@ RELATIVE_URLS = True
 
 ARTICLE_ORDER_BY = 'sortorder'
 PAGE_ORDER_BY = 'sortorder'
+
+MD_EXTENSIONS = (['toc'])
