@@ -45,15 +45,3 @@ RELATIVE_URLS = True
 
 ARTICLE_ORDER_BY = 'sortorder'
 PAGE_ORDER_BY = 'sortorder'
-
-MARKDOWN = { # all defaults except as noted
-    'markdown.extensions.toc': { # non-default
-      'title': 'Table of contents:' 
-    },
-    'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
-    },
-    'output_format': 'html5',
-}
