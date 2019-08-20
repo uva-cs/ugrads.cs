@@ -10,3 +10,11 @@ The UVA rules about this are in the section “Academic Departments” on this p
 Summarizing, internships do not result in credit, but professors can add credit to an internship via the course UNST 2820. However, that course must require significant *additional* work (research, papers, etc) beyond the internship work itself.
 
 In practice, CS faculty almost never offer UNST 2820 as it is extra (i.e. unrewarded) work for the instructor, with little (i.e., non-CS credit) benefit for students. The most common exception is if the work fits into a faculty member’s established research area and would help you join with the faculty member’s other research students.
+
+## If I feel discriminated against, who do I talk to?
+
+The CS Director of Diversity and Inclusion (DDI, currently Luther Tychonievich) is the primary point of contact for such incidents.
+The CS department also maintains a [diversity committee](https://engineering.virginia.edu/departments/computer-science/about-computer-science/diversity-department-computer-science), any member of which should be able to help if the DDI is not a good pick for you.
+
+The university also has a system for reporting incidents: <https://justreportit.virginia.edu/>.
+You may also be able to find assistance from academic and research advisors, department chairs, and deans, though often they will refer incidents back to one of the diversity-focused individuals or groups listed above.
