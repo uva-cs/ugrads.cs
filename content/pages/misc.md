@@ -13,7 +13,7 @@ In practice, CS faculty almost never offer UNST 2820 as it is extra (i.e. unrewa
 
 ## If I feel discriminated against, who do I talk to?
 
-The CS Director of Diversity and Inclusion (DDI, currently [Luther Tychonievich](mailto:tychonievich@virginia.edu) is the primary point of contact for such incidents.
+The CS Director of Diversity and Inclusion (DDI, currently [Luther Tychonievich](mailto:tychonievich@virginia.edu)) is the primary point of contact for such incidents.
 The CS department also maintains a [diversity committee](https://engineering.virginia.edu/departments/computer-science/about-computer-science/diversity-department-computer-science), any member of which should be able to help if the DDI is not a good pick for you.
 
 The university also has a system for reporting incidents: <https://justreportit.virginia.edu/>;
