@@ -55,11 +55,11 @@ School and University links
 
 Student Organizations
 ---------------------
-- ACM [http://acm.cs.virginia.edu/](http://acm.cs.virginia.edu/): The Association for Computing Machinery Chapter at the University of Virginia is a student chapter of the parent Association for Computing Machinery. The Chapter is a Contracted Independent Orginization (CIO) at the University of Virginia, and serves students, faculty, and staff of the University as well as members of the Charlottesville / Albermarle community. Any member of the University or Charlottesville / Albermarle community may become a Member of the Chapter. 
+- ACM ([http://acm.cs.virginia.edu/](http://acm.cs.virginia.edu/)): The Association for Computing Machinery Chapter at the University of Virginia is a student chapter of the parent Association for Computing Machinery. The Chapter is a Contracted Independent Orginization (CIO) at the University of Virginia, and serves students, faculty, and staff of the University as well as members of the Charlottesville / Albermarle community. Any member of the University or Charlottesville / Albermarle community may become a Member of the Chapter. 
 
-- WiCS (Women in Computing Sciences) [http://wics.cs.virginia.edu/](http://wics.cs.virginia.edu/): WiCS is a club that supports, celebrates, and encourages the growing community of women in computing. We aim to raise awareness of issues faced by women in technology, in addition to inspiring women to explore educational and professional opportunities in the field through mentorship and service. Among our activities is a teaching and mentorship program where we meet weekly with students at a local high school. WiCS is chapter of the national ACM-W organization. 
+- WiCS (Women in Computing Sciences) ([http://wics.cs.virginia.edu/](http://wics.cs.virginia.edu/)): WiCS is a club that supports, celebrates, and encourages the growing community of women in computing. We aim to raise awareness of issues faced by women in technology, in addition to inspiring women to explore educational and professional opportunities in the field through mentorship and service. Among our activities is a teaching and mentorship program where we meet weekly with students at a local high school. WiCS is chapter of the national ACM-W organization. 
 
-- Student Game Developers [http://sgd.cs.virginia.edu](http://sgd.cs.virginia.edu): Student Game Developers is a CIO at The University of Virginia.  The group supports the creation of several original video games each semester and provides industry resources and contacts for aspiring game developers at The University.
+- Student Game Developers ([http://sgd.cs.virginia.edu](http://sgd.cs.virginia.edu)): Student Game Developers is a CIO at The University of Virginia.  The group supports the creation of several original video games each semester and provides industry resources and contacts for aspiring game developers at The University.
 
 Mailing Lists
 -------------
