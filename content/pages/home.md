@@ -21,7 +21,6 @@ Information for Fall 2019
 General links
 -------------
 
-- [Information for New Undergraduate Computing Majors](https://www.cs.virginia.edu/~sherriff/newcs/): read this is you have just been accepted into the major
 - [Possible undergraduate research projects](http://research.cs.virginia.edu/) for those who want to get involved in undergraduate research, or those looking for a senior thesis topic
     - A [list of CS faculty](https://engineering.virginia.edu/departments/computer-science/cs-people/faculty) who are the ones who posted those topics
 - [Computer Science Grad Student Job Application & Interview Guide](http://www.cs.virginia.edu/~weimer/grad-job-guide/guide/index.html) by [Westley Weimer](http://www.cs.virginia.edu/~weimer/)
@@ -31,7 +30,6 @@ Academic links
 --------------
 
 - [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (PDF); this is hosted in a [github repo](https://github.com/uva-cs/ugrad-handbook/) (chapter 6 has information about the Masters program)
-- [CS Advising dashboard](http://stardock.cs.virginia.edu/advising/) is a overview of the topics and questions that often come up during student advising
 - [CS departmental academic pages](https://engineering.virginia.edu/departments/computer-science/academics), which gives an overview of the majors and minor within the department
 - [Lou's List for Computer Science](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci) which lists the courses offered for each semester
 - [Generic CS department class registration policy](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/registration) which is the policy used when allowing students to enroll in courses
@@ -55,6 +53,20 @@ School and University links
   [elective policies](http://www.seas.virginia.edu/undergrad/orientation/pdfs/electives_2016.pdf) (PDF)
 - CLAS links: [Degree requirements](http://college.as.virginia.edu/requirements)
 
+Student Organizations
+---------------------
+- ACM [http://acm.cs.virginia.edu/](http://acm.cs.virginia.edu/): The Association for Computing Machinery Chapter at the University of Virginia is a student chapter of the parent Association for Computing Machinery. The Chapter is a Contracted Independent Orginization (CIO) at the University of Virginia, and serves students, faculty, and staff of the University as well as members of the Charlottesville / Albermarle community. Any member of the University or Charlottesville / Albermarle community may become a Member of the Chapter. 
+
+- WiCS (Women in Computing Sciences) [http://wics.cs.virginia.edu/](http://wics.cs.virginia.edu/): WiCS is a club that supports, celebrates, and encourages the growing community of women in computing. We aim to raise awareness of issues faced by women in technology, in addition to inspiring women to explore educational and professional opportunities in the field through mentorship and service. Among our activities is a teaching and mentorship program where we meet weekly with students at a local high school. WiCS is chapter of the national ACM-W organization. 
+
+- Student Game Developers [http://sgd.cs.virginia.edu](http://sgd.cs.virginia.edu): Student Game Developers is a CIO at The University of Virginia.  The group supports the creation of several original video games each semester and provides industry resources and contacts for aspiring game developers at The University.
+
+Mailing Lists
+-------------
+
+- All Undergrad CS Students Department List (cs-ugrads@virginia.edu): A list called cs-ugrads@virginia.edu is used to send important messages to all our undergraduate computing majors (BSCS, BACS, and BSCpE majors). At least once a year, we update these lists and add all our majors. 
+- [Computing Jobs Mailing List](https://collab.itc.virginia.edu/portal/site/c4e021cd-5ac5-4901-b1a3-3a99396dbd7d#) (computingjobs@collab.itc.virginia.edu): CS faculty and staff routinely receive emails from various organizations, companies, individuals, and colleagues at UVa that are interested in hiring students, either for full time positions or internships. There is a Collab site called "Computing Jobs" that you can join and browse the email archive there. Faculty and staff will forward opportunities that we get to this Collab site. You are welcome to join and unjoin from the site at your leisure. To join the site, login to Collab and in the My Workspace tab, choose Membership. In the Membership screen, select Joinable Sites and then search for Computing Jobs. You can then add the site to your list of Collab sites and will receive job postings as they come in. 
+
 
 Connect with us and other majors
 --------------------------------
@@ -62,4 +74,3 @@ Connect with us and other majors
 - [CS Advising on Piazza](https://piazza.com/virginia/other/csadvising): anybody can join, and it's a great place to ask advising questions
 - [CS @ UVa slack channel](https://uva-compsci.slack.com/)
 - [Facebook group](https://www.facebook.com/groups/216856585086114) that anybody can post to
-- [Computing jobs mailing list](https://collab.itc.virginia.edu/portal/site/c4e021cd-5ac5-4901-b1a3-3a99396dbd7d#): anybody can join the Collab group, and job announcements are emailed regularly
