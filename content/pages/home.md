@@ -5,6 +5,8 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
+**Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: www.virginia.edu/registrar/catalog/ugrad.html
+
 Information for Fall 2019
 -------------------------
 
@@ -36,11 +38,10 @@ Academic links
 - [CS Grading Guidelines](//ugrads.cs.virginia.edu/grading-guidelines.html) as approved by the CS faculty to help normalize grading practices across CS courses
 - Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2019.pdf) (PDF) and [CS 2110 placement exams](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2019.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit.
 - The undergraduate record for the [BS CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5227), [BA CS](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5226), and the [BS CpE](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5225)
-- BA CS integration electives: NOTE: the info about this topic given here is out-of-date, and will be updated by 8/19/2019 when soem final details are resolved!  There are two separate lists: the [one on the departmental website](https://engineering.virginia.edu/departments/computer-science/academics/ba-computer-science#accordion67812), and the one in section 3.3.3 of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf).  The BA CS committee is working on synchronizing those two lists, but that will likely not happen until the fall of 2018.  Until then, students may take any course on either of those two lists, and it will count as an integration elective.
+- BA CS integration electives: See [this document](https://docs.google.com/spreadsheets/d/1rHhgqbZsCAGbNWcm-l7PZbdMOleLRJg4ABl1aYHAt9s/edit#gid=0) which has the current list, as well the list that was in effect before Fall 2019. This page also explains which lists apply to students, which depends on when they were admitted into the BACS degree program.
     - Can a course not on the list count?  Other students have made such petitions, so it's possible a course you're interested in has been successfully petitioned (or unsuccessfully petitioned) by another student.  
-The [list at this link](https://goo.gl/rPQGzW) courses for which students' petitions have been approved, and a also courses for which we've said "no”.
-    - If you want one of these to count for you, you must complete the [form at this link](https://goo.gl/forms/yukq3PC6oQxh25LY2).
-    - Use this same form if you want to petition for a course that’s not on any list.  See the form for information about what might count and what justification you must provide.
+The document at the link above shows courses for which students' petitions have been approved, and a also courses for which we've said "no”.
+    - As of 9/2/2019, we are still revising the form and the petition process by which you can request that one of these peititoned courses be counted, or to petition a course not on that list.  Stay patient and stay tuned!
 - Transfer credits for CS classes taken elsewhere: see [here](http://ascs8.eservices.virginia.edu/asEquivs) for a search form for the College, and [here](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2017.pdf) for a PDF from the Engineering school.  Students still need to complete a form before they take the course (see Jesse Rogers or Joe Rehder in the Engineering undergraduate office)
 - [Information about doing a 5-Year Masters](https://engineering.virginia.edu/departments/computer-science/academics/admissions/cs-graduate-admission/fifth-year-masters-faq)
 - [Information about CPT, Curricular Practical Training](http://stardock.cs.virginia.edu/horton/CPT.html)
