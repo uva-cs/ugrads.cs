@@ -5,7 +5,7 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-**Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: [www.virginia.edu/registrar/catalog/ugrad.html](www.virginia.edu/registrar/catalog/ugrad.html)
+**Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: [http://www.virginia.edu/registrar/catalog/ugrad.html](http://www.virginia.edu/registrar/catalog/ugrad.html)
 
 Information for Fall 2019
 -------------------------
