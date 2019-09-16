@@ -3,8 +3,6 @@ url: capstone.html
 save_as: capstone.html
 sortorder: 1
 
-#BSCS Capstone Information
-
 Note: If you are a BACS major then you have no capstone requirement, so none of this information applies to you. You may, however, do a capstone-like project to earn a [distinguished major](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/ba-computer-science#accordion67814).
 
 ##What is a Capstone?
@@ -16,7 +14,7 @@ There are two components to your capstone: the technical portion and the STS por
 There are two courses in the CS department which satisfy the technical portion: **CS4971 (Capstone Practicum II)**, and **CS4980 (Capstone Research)**. The practicum is a more structured course which guides you and your team through a software project, Capstone Research is more of an independent study. 
 
 
-##Capstone Practicum
+#Capstone Practicum
 
 ###How does it work?
 
@@ -30,7 +28,7 @@ In CS4971 you will complete the project you began in CS4970. For this reason, yo
 
 **To graduate in the fall:** sign up for CS4970 in the fall of the academic year before your graduation. (e.g. If you wish to graduate in the fall of your fourth year, take CS4970 in the fall of your third year.)
 
-##Capstone Research
+#Capstone Research
 
 ###How does it work?
 You may satisfy this requirement by completing 3 total credits of CS4980 with any CS faculty member who agrees to be your advisor. These credits must be taken with the same faculty member, but need not be taken during the same semester. You may, for example, take 1 credit of CS4980 in the fall and 2 credits of CS4980 in the spring. 
@@ -58,7 +56,7 @@ There are three options:
 
 Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching, it's the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline.
 
-##Frequently Asked Questions
+#Frequently Asked Questions
 
 ###Can a professor in another department supervise my work and be my instructor for CS4980? 
 Only CS faculty members may advise CS4980. Some faculty may be willing to co-advise with faculty from other departments. If a CS faculty member agrees to advise you, enroll for the CS faculty member's section of CS4980.
