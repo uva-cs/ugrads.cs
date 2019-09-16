@@ -1,3 +1,8 @@
+Title: BSCS Capstone
+url: capstone.html
+save_as: capstone.html
+sortorder: 1
+
 #BSCS Capstone Information
 
 Note: If you are a BACS major then you have no capstone requirement, so none of this information applies to you. You may, however, do a capstone-like project to earn a [distinguished major](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/ba-computer-science#accordion67814).
