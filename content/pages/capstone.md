@@ -42,7 +42,7 @@ There are three options:
 1. Find a faculty member who is willing to work on a project idea of yours. Once the faculty member agrees to work with you, sign up for their section of CS4980. To start, look at the course offerings of the past several semesters and the [available projects](http://research.cs.virginia.edu/) to identify faculty members with interests that align with your project.
 1. Find a friend who is already matched with a faculty member and ask both the friend and the faculty member if you can join that project. Sign up for that faculty member's section of CS4980.
 
-##Which option is best for you?
+#Which option is best for you?
 
 |If you... |Then you should likely take...|
 |--------- |---------------------------------|
@@ -52,7 +52,7 @@ There are three options:
 |Want the structure of an organized course | **Capstone Practicum**. This is a formal course with regular deadlines and pre-defined rubrics. Capstone research is likely to be more self-guided.|
 |Haven't yet selected either option, and you want to graduate *this* semester | **Capstone Research**. Since each half of the Capstone Practicum is offered once per year, there is no way to finish both portions in a single semester.|
 
-##When should I decide?
+#When should I decide?
 
 Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching, it's the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline.
 
