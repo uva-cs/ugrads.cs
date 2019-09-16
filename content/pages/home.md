@@ -45,6 +45,7 @@ The document at the link above shows courses for which students' petitions have 
 - Transfer credits for CS classes taken elsewhere: see [here](http://ascs8.eservices.virginia.edu/asEquivs) for a search form for the College, and [here](http://www.seas.virginia.edu/undergrad/pdfs/Transfer_Equivalents_2017.pdf) for a PDF from the Engineering school.  Students still need to complete a form before they take the course (see Jesse Rogers or Joe Rehder in the Engineering undergraduate office)
 - [Information about doing a 5-Year Masters](https://engineering.virginia.edu/departments/computer-science/academics/admissions/cs-graduate-admission/fifth-year-masters-faq)
 - [Information about CPT, Curricular Practical Training](http://stardock.cs.virginia.edu/horton/CPT.html)
+- [BSCS captone policies](//ugrads.cs.virginia.edu/capstone.html), including frequently asked questions about capstone projects
 
 School and University links
 ---------------------------
