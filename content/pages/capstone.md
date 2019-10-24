@@ -54,7 +54,7 @@ There are three options:
 
 #When should I decide?
 
-Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching, it's the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline.
+Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching for the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline.
 
 #Frequently Asked Questions
 
