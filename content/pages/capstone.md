@@ -54,7 +54,7 @@ There are three options:
 
 #When should I decide?
 
-Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching for the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline.
+Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching for the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline. At the very latest, you need to have identified early during the semester you take CS4500.
 
 #Frequently Asked Questions
 
@@ -75,5 +75,9 @@ You have two options:
 
 1. Take CS4980 to fulfill your capstone requirement instead (CS4970 will still count as a CS elective).
 1. Re-take CS4970 the following fall (note that you cannot receive credit for the course twice), then take CS4971 in the immediately following spring.
+
+###My STS Instructor asked me who my technical advisor it. Who is that?
+
+If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrollend in CS4980, then it is the faculty member whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
 
 
