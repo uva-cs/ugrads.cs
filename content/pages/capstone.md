@@ -78,6 +78,6 @@ You have two options:
 
 ###My STS Instructor asked me who my technical advisor it. Who is that?
 
-If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrollend in CS4980, then it is the faculty member whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
+If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrollend in CS4980, then it is the faculty member in whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
 
 
