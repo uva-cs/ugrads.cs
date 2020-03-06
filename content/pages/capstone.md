@@ -18,9 +18,9 @@ There are two courses in the CS department which satisfy the technical portion: 
 
 ###How does it work?
 
-The practicum is a two-course sequence: CS4970 (Capstone Practicum I) and CS4971 (Capstone Practicum II). CS4970 is offered every fall (and only during the fall), and counts as one of your five required CS electives. CS4971 is offered every spring (and only during the spring), and counts as your capstone requirement. 
+The practicum is a two-course sequence: CS4970 (Capstone Practicum I) and CS4971 (Capstone Practicum II). CS4970 is offered every fall (and only during the fall), and counts as one of your five required CS electives. CS4971 is offered every spring (and only during the spring), and satisfies the capstone requirement. 
 
-In CS4971 you will complete the project you began in CS4970. For this reason, you may only take CS4971 if you took CS4970 the fall of the same academic year (i.e. the immediately preceding fall).
+In CS4971 you will complete the same project that you began in CS4970. For this reason, you may only take CS4971 if you took CS4970 the fall of the same academic year (i.e. the immediately preceding fall).
 
 ###How do I enroll?
 
@@ -42,7 +42,7 @@ There are three options:
 1. Find a faculty member who is willing to work on a project idea of yours. Once the faculty member agrees to work with you, sign up for their section of CS4980. To start, look at the course offerings of the past several semesters and the [available projects](http://research.cs.virginia.edu/) to identify faculty members with interests that align with your project.
 1. Find a friend who is already matched with a faculty member and ask both the friend and the faculty member if you can join that project. Sign up for that faculty member's section of CS4980.
 
-#Which option is best for you?
+#Which option is best for me?
 
 |If you... |Then you should likely take...|
 |--------- |---------------------------------|
@@ -76,7 +76,7 @@ You have two options:
 1. Take CS4980 to fulfill your capstone requirement instead (CS4970 will still count as a CS elective).
 1. Re-take CS4970 the following fall (note that you cannot receive credit for the course twice), then take CS4971 in the immediately following spring.
 
-###My STS Instructor asked me who my technical advisor it. Who is that?
+###My STS Instructor asked me who my technical advisor is. Who is that?
 
 If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrollend in CS4980, then it is the faculty member in whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
 
