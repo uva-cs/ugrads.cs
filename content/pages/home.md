@@ -23,7 +23,7 @@ This means:
 >
 > - You need a C- or higher or a CR in CS 2102 to take 4102
 > - You need a C- or higher or a CR in CS 2150 to take 4102
-> - You need a D- or higher or a GR or CR in any one of APMA 1090 or MATH 1210 or MATH 1310 to take 4102
+> - You need a D- or higher or a GC or CR in any one of APMA 1090 or MATH 1210 or MATH 1310 to take 4102
 >
 > If CS 4102 is required for your CS-administered degree (i.e., for the BACS or BSCS), you need to earn a D- or better, or a CR or GC, to meet that requirement.
 
