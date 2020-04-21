@@ -16,7 +16,7 @@ The CS department is treating the Spring 2020 version of CR and GC as follows:
 - GC will meet any requirement a D would meet
 - NC will not meet any requirement
 
-This applies to all CS course prereqs and all CS-administered degrees programs (BACS, BSCS, and CS minor), regardless of the department offering the course (i.e., a CR or GC in calculus is a sufficient prereq for CS 4102 regardless of the math department's GC policies).
+This applies to all CS course prereqs and all CS-administered degrees programs (BACS, BSCS, and CS minor), regardless of the department offering the course.
 
 > **Example:** CS 4102 lists its prerequisite as  "CS 2102 and 2150 with grades of C- or higher, and APMA 1090 or MATH 1210 or MATH 1310."
 This means:
@@ -27,7 +27,7 @@ This means:
 >
 > If 4102 is required for your degree (as it is for the BACS and BSCS), you need to earn a D- or better, or a CR or GC, to meet that requirement.
 
-If you are taking a CS course to fullfil a requirement for a degree program administered by another department, please see that department's policy on GC grades, which may differ from the above.
+If you are taking a CS course to fulfill a requirement for a degree program administered by another department, please see that department's policy on GC grades, which may differ from the above.
 
 The above only applies to the Spring 2020 redefinition of CR/NC. If you have a CR grade from a course prior to Spring 2020 and you wish it to count toward some requirement, please contact your academic advisor.
 
