@@ -7,6 +7,30 @@ This page contains the links that are relevant for undergraduate majors in Compu
 
 **Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: [http://www.virginia.edu/registrar/catalog/ugrad.html](http://www.virginia.edu/registrar/catalog/ugrad.html)
 
+Information for Spring 2020
+---------------------------
+
+The CS department is treating the Spring 2020 version of CR and GC as follows:
+
+- CR will meet any requirement a C would meet
+- GC will meet any requirement a D would meet
+- NC will not meet any requirement
+
+This applies to all CS course prereqs and all CS-administered degrees programs (BACS, BSCS, and CS minor), regardless of the department offering the course (i.e., a CR or GC in calculus is a sufficient prereq for CS 4102 regardless of the math department's GC policies).
+
+> **Example:** CS 4102 lists its prerequisite as  "CS 2102 and 2150 with grades of C- or higher, and APMA 1090 or MATH 1210 or MATH 1310."
+This means:
+>
+> - You need a C- or higher or a CR in CS 2102 to take 4102
+> - You need a C- or higher or a CR in CS 2150 to take 4102
+> - You need a D- or higher or a GR or CR in any one of APMA 1090 or MATH 1210 or MATH 1310 to take 4102
+>
+> If 4102 is required for your degree (as it is for the BACS and BSCS), you need to earn a D- or better, or a CR or GC, to meet that requirement.
+
+If you are taking a CS course to fullfil a requirement for a degree program administered by another department, please see that department's policy on GC grades, which may differ from the above.
+
+The above only applies to the Spring 2020 redefinition of CR/NC. If you have a CR grade from a course prior to Spring 2020 and you wish it to count toward some requirement, please contact your academic advisor.
+
 Information for Fall 2019
 -------------------------
 
