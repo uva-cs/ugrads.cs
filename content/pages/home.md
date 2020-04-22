@@ -10,26 +10,17 @@ This page contains the links that are relevant for undergraduate majors in Compu
 Information for Spring 2020
 ---------------------------
 
-The CS department is treating the Spring 2020 version of CR and GC as follows:
+The Provost announced that this semester there will be a GC grade and stated that "GC counts toward degree requirements that don't require a C or higher." The CS department's understanding of this statement, which we intend to use for all CS class prereqs and CS-administered majors and minors (i.e. BACS, BSCS, CpE, and CS minors), is as follows:
 
-- CR will meet any requirement a C would meet
-- GC will meet any requirement a D would meet
-- NC will not meet any requirement
+- If you have a CR grade, it meets any requirement a C would meet. This includes "class X with C- or better" prereqs.
+- If you have a GC grade, it meets any requirement a D- would meet. This includes "class X" prereqs that do not list a required grade, as well as degree requirements to complete specific courses or gain certain numbers of credits in specific course areas.
+- If you have a NC grade, it does not meet any requirements.
 
-This applies to all CS course prereqs and all CS-administered degrees programs (BACS, BSCS, and CS minor), regardless of the department offering the course.
+In answer to some specific questions we have been asked:
 
-> **Example:** CS 4102 lists its prerequisite as  "CS 2102 and 2150 with grades of C- or higher, and APMA 1090 or MATH 1210 or MATH 1310."
-This means:
->
-> - You need a C- or higher or a CR in CS 2102 to take 4102
-> - You need a C- or higher or a CR in CS 2150 to take 4102
-> - You need a D- or higher or a GC or CR in any one of APMA 1090 or MATH 1210 or MATH 1310 to take 4102
->
-> If CS 4102 is required for your CS-administered degree (i.e., for the BACS or BSCS), you need to earn a D- or better, or a CR or GC, to meet that requirement.
-
-If you are taking a CS course to fulfill a requirement for a degree program administered by another department, please see that department's policy on GC grades, which may differ from the above.
-
-The above only applies to the Spring 2020 redefinition of CR/NC. If you have a CR grade from a course prior to Spring 2020 and you wish it to count toward some requirement, please contact your academic advisor.
+- As officially defined in [the record](http://records.ureg.virginia.edu/content.php?catoid=47&navoid=3494), no BACS, BSCS, or CpE graduation requirement requires a specific grade in any given course, so for graduation GC is sufficient for all courses (required and elective, in-department and external, including special offerings like capstones, independent study, etc).
+- Both [BSCS](http://records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5916) and [CpE](records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5914&returnto=3494) officially define "unrestricted elective" using the language "any graded course in the University;" for Spring 2020, a "graded course" is one where letter grades are an option. If a student earns a CR or GC in such a course, that will satisfy this requirement.
+- All of this applies to the Spring 2020 redefinition of CR/GC/NC, not to CR/NC as it existed before then.
 
 Information for Fall 2019
 -------------------------
