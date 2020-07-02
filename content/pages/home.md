@@ -7,6 +7,13 @@ This page contains the links that are relevant for undergraduate majors in Compu
 
 **Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: [http://www.virginia.edu/registrar/catalog/ugrad.html](http://www.virginia.edu/registrar/catalog/ugrad.html)
 
+Information for Fall 2020
+-------------------------
+
+- [Helpful Info for All CS Students 2020](http://stardock.cs.virginia.edu/seas/CSHelpfulInfo-2020.pdf)
+- [Lou's List: CS courses for Fall 2020](https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)
+- [Apply to be a Teaching Assistant for Fall 2020](https://forms.office.com/Pages/ResponsePage.aspx?id=x4A0ewc3c0iLd-IWczplrHXv3EkYJDlPovugDqEAoGtUOThKRExTN040N1dPWFNIUktUOFNWWEI2Qy4u)
+
 Information for Spring 2020
 ---------------------------
 
