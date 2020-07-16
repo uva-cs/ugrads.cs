@@ -3,6 +3,8 @@ url: capstone.html
 save_as: capstone.html
 sortorder: 1
 
+**NOTICE (July 16, 2020): The COVID-19 pandemic has made a customer-based and group-based software engineering project format non-tenable, and so the CS4970/CS4971 sequence must be substantially amended for at least the 2020-2021 academic year. Please look for an announcement in the coming days regarding the replacement program**
+
 Note: If you are a BACS major then you have no capstone requirement, so none of this information applies to you. You may, however, do a capstone-like project to earn a [distinguished major](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/ba-computer-science#accordion67814).
 
 ##What is a Capstone?
