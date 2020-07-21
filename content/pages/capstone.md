@@ -3,7 +3,39 @@ url: capstone.html
 save_as: capstone.html
 sortorder: 1
 
-**NOTICE (July 16, 2020): The COVID-19 pandemic has made a customer-based and group-based software engineering project format non-tenable, and so the CS4970/CS4971 sequence must be substantially amended for at least the 2020-2021 academic year. Please look for an announcement in the coming days regarding the replacement program**
+**Due to the Covid-19 pandemic, the capstone process for the upcoming academic year (2020-2021) will be quite different, and CS 4970/4971 will NOT be offered.  Read below for details.**
+
+# Academic year 2020-2021 Details
+
+If you are planning on fulfilling your capstone requirement via CS 4980 (the Capstone Research path), then nothing changes for you; these details are just for those who want to take the Capstone Practicum path.  You can read the details below, under "Capstone Research", for information about this path.
+
+The Covid-19 pandemic has made the CS 4970/4971 capstone practicum impractical, as in-person group-based projects with in-person customer meetings are no longer viable.  For all students who are going to graduate in 2020 or 2021 (this includes May 2021 and December 2021 graduations), the department is offering a different capstone process.
+
+The details:
+
+- There will be a *capstone coordinator* that will help guide students through this whole process; for the 2020-2021 academic year, that is [Aaron Bloomfield](https://www.cs.virginia.edu/~asb).
+- CS 4970 will ***NOT*** be offered in the fall, nor will CS 4971 be offered in the spring; all students currently enrolled in the class will notified of this and de-registered from the course.
+- Graduating students will have to take 6 (six) CS electives, one of which will count in lieu of the 3 credits of capstone -- note that the number of credits required will remain the same (prior to this it was five electives and one capstone course; now it is six electives).
+    - Once the technical report is approved (see below), the capstone coordinator will ensure that one of the CS electives counts for the capstone requirement in SIS.
+- Students will still have to complete a project and write a technical report; this is required to complete STS 4600.
+    - Students can work on their projects (and reports) individually or can self-select groups of up to four people; note that work required will scale with the group size, so it does not become "easier" with larger groups.
+	- All technical projects will somehow combine two CS electives; all members of the group will have had to have completed at least one of those electives, and be enrolled in the other one.
+	- The technical project is expected to take about one week's worth of effort per team member, presumably spread over many weeks.
+    - Once the fall semester starts, students will indicate their interest areas, requested group members, and project ideas, and will be assigned to faculty member reviewers based on this.
+	- Students will work with those faculty member reviewers to write an abstract, complete the project, and get the report approved.
+	- The intent is that the project itself is self-guided; what requires faculty feedback here is the project selection, the abstract writing and approval, and the report approval (inherent in the report approval is that the project was sufficiently completed).
+- This process can be completed in either the fall or spring semester.
+- The capstone coordinator will provide details about the timeline, how to select projects, and the writing of the abstracts and reports; these details will be available prior to the start of the fall semester.
+- Some details here are missing -- in particular, project ideas, what constitutes a sufficient project, how to combine two courses to create a valid project, etc.  We are working on writing this up in detail, and expect to have that posted here by mid-August.
+- The capstone will coordinate through the [cs-capstone@virginia.edu mailing list](https://lists.virginia.edu/sympa/admin/cs-capstone) -- only the capstone coordinator can email to it, but anybody can subscribe.  While some details will be posted on this web page before the semester starts, the details during the semester will only be emailed to that list.
+    - Anybody who was in the CS 4970 class will be automatically added to that list.
+	- An email will be sent out to all 4th year BSCS majors letting them know about the list.
+	- Students can add or remove themselves from the list at any time.
+	- Subscribers can view the archives of the emails sent to that list.
+
+----
+
+# Older capstone details
 
 Note: If you are a BACS major then you have no capstone requirement, so none of this information applies to you. You may, however, do a capstone-like project to earn a [distinguished major](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/ba-computer-science#accordion67814).
 
@@ -11,7 +43,7 @@ Note: If you are a BACS major then you have no capstone requirement, so none of 
 Every Engineering student must complete a capstone project to complete their degree. In CS, these projects are typically either a research project or a software development project, but other kinds of projects may be acceptable as well. 
 
 ##How do I satisfy the Capstone Requirement?
-There are two components to your capstone: the technical portion and the STS portion. The STS portion is satified by STS4600, it cannot be completed earlier than your technical portion (and typically they are completed during the same semester).
+There are two components to your capstone: the technical portion and the STS portion. The STS portion is satisfied by STS4600, it cannot be completed earlier than your technical portion (and typically they are completed during the same semester).
 
 There are two courses in the CS department which satisfy the technical portion: **CS4971 (Capstone Practicum II)**, and **CS4980 (Capstone Research)**. The practicum is a more structured course which guides you and your team through a software project, Capstone Research is more of an independent study. 
 
@@ -80,6 +112,6 @@ You have two options:
 
 ###My STS Instructor asked me who my technical advisor is. Who is that?
 
-If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrollend in CS4980, then it is the faculty member in whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
+If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrolled in CS4980, then it is the faculty member in whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
 
 
