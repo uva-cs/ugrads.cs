@@ -17,7 +17,7 @@ Information for Fall 2020
 - [Information about which CS 1 course to take and the CS 1110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2020.pdf)
 - [Information about the CS 2110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2020.pdf) 
 
-[Information from Previous Semesters](/previous-semesters.html)
+[Information from Previous Semesters](/previous_semesters.html)
 
 General links
 -------------
