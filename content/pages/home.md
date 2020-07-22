@@ -13,34 +13,11 @@ Information for Fall 2020
 - [Helpful Info for All CS Students 2020](http://stardock.cs.virginia.edu/seas/CSHelpfulInfo-2020.pdf)
 - [Lou's List: CS courses for Fall 2020](https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)
 - [Apply to be a Teaching Assistant for Fall 2020](https://forms.office.com/Pages/ResponsePage.aspx?id=x4A0ewc3c0iLd-IWczplrHXv3EkYJDlPovugDqEAoGtUOThKRExTN040N1dPWFNIUktUOFNWWEI2Qy4u)
+- [Lou's List: CS courses for Fall 2020](https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)
+- [Information about which CS 1 course to take and the CS 1110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2020.pdf)
+- [Information about the CS 2110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2020.pdf) 
 
-Information for Spring 2020
----------------------------
-
-The Provost announced that this semester there will be a GC grade and stated that "GC counts toward degree requirements that don't require a C or higher." The CS department's understanding of this statement, which we intend to use for all CS class prereqs and CS-administered majors and minors (i.e. BACS, BSCS, CpE, and CS minors), is as follows:
-
-- If you have a CR grade, it meets any requirement a C would meet. This includes "class X with C- or better" prereqs.
-- If you have a GC grade, it meets any requirement a D- would meet. This includes "class X" prereqs that do not list a required grade, as well as degree requirements to complete specific courses or gain certain numbers of credits in specific course areas.
-- If you have a NC grade, it does not meet any requirements.
-
-In answer to some specific questions we have been asked:
-
-- As officially defined in [the record](http://records.ureg.virginia.edu/content.php?catoid=47&navoid=3494), no BACS, BSCS, or CpE graduation requirement requires a specific grade in any given course, so for graduation GC is sufficient for all courses (required and elective, in-department and external, including special offerings like capstones, independent study, etc).
-- Both [BSCS](http://records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5916) and [CpE](records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5914&returnto=3494) officially define "unrestricted elective" using the language "any graded course in the University;" for Spring 2020, a "graded course" is one where letter grades are an option. If a student earns a CR or GC in such a course, that will satisfy this requirement.
-- All of this applies to the Spring 2020 redefinition of CR/GC/NC, not to CR/NC as it existed before then.
-
-Information for Fall 2019
--------------------------
-
-- [Helpful Info for All CS Students 2019](http://stardock.cs.virginia.edu/seas/CSHelpfulInfo-2019.pdf)
-- [Helpful Info for BSCS Students 2019](http://stardock.cs.virginia.edu/seas/BSCS-Info-2019.pdf)
-- [Helpful Info for BACS Students 2019](http://stardock.cs.virginia.edu/seas/BACS-Info-2019.pdf)
-- [Lou's List: CS courses for fall 2019](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci)
-- [CS Course Enrollment Dates](https://www.cs.virginia.edu/~cohoon/pdf/enroll-policy.pdf)
-- [Apply to be a Teaching Assistant for Fall 2019](https://forms.gle/oLqu5khjXmGhF3er5)
-- [Information about the CS 2020 Pilot Curriculum Program](http://pilot.cs.virginia.edu)
-- [Information about which CS 1 course to take and the CS 1110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2019.pdf)
-- [Information about the CS 2110 Place Out Test](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2019.pdf) 
+[Information from Previous Semesters](/previous-semesters.html)
 
 General links
 -------------
@@ -58,7 +35,7 @@ Academic links
 - [Lou's List for Computer Science](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Type=Group&Group=CompSci) which lists the courses offered for each semester
 - [Generic CS department class registration policy](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/registration) which is the policy used when allowing students to enroll in courses
 - [CS Grading Guidelines](//ugrads.cs.virginia.edu/grading-guidelines.html) as approved by the CS faculty to help normalize grading practices across CS courses
-- Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2019.pdf) (PDF) and [CS 2110 placement exams](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2019.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit.
+- Placement exams and AP/IB credit: a quick overview is section of the [CS Undergraduate handbook](http://handbook.cs.virginia.edu/ugrad-handbook.pdf) (section 7.3.3); also see the pages specific to [CS 1110 placement exams](http://stardock.cs.virginia.edu/seas/CS1110-PlacementTestInfo-2020.pdf) (PDF) and [CS 2110 placement exams](http://stardock.cs.virginia.edu/seas/CS2110-PlacementTestInfo-2020.pdf) (PDF); note that placement exams allow one to skip a pre-req; they *never* give course credit.
 - The undergraduate record for the [BS CS](http://records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5916&returnto=3494); BACS [declared Fall 2019 or later](http://records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5915&returnto=3494) or [declared earlier than Fall 2019](http://records.ureg.virginia.edu/preview_program.php?catoid=43&poid=5226), and the [BS CpE](http://records.ureg.virginia.edu/preview_program.php?catoid=47&poid=5914&returnto=3494)
 - BA CS integration electives: See [this document](https://docs.google.com/spreadsheets/d/1rHhgqbZsCAGbNWcm-l7PZbdMOleLRJg4ABl1aYHAt9s/edit#gid=0) which has the current list, as well the list that was in effect before Fall 2019. This page also explains which lists apply to students, which depends on when they were admitted into the BACS degree program.
     - Can a course not on the list count?  Other students have made such petitions, so it's possible a course you're interested in has been successfully petitioned (or unsuccessfully petitioned) by another student.  
