@@ -9,66 +9,123 @@ sortorder: 1
 
 If you are planning on fulfilling your capstone requirement via CS 4980 (the Capstone Research path), then nothing changes for you; these details are just for those who want to take the Capstone Practicum path.  You can read the details below, under "Capstone Research", for information about this path.
 
-The Covid-19 pandemic has made the CS 4970/4971 capstone practicum impractical, as in-person group-based projects with in-person customer meetings are no longer viable.  For all students who are going to graduate in 2020 or 2021 (this includes May 2021 and December 2021 graduations), the department is offering a different capstone process.
+### Overview
+
+The Covid-19 pandemic has made the CS 4970/4971 capstone practicum impractical, as in-person group-based projects with in-person customer meetings are no longer viable.  For all students who are going to graduate prior to the end of 2021 (meaning on or before December 2021), the department is offering a different capstone process.
 
 The details:
 
-- There will be a *capstone coordinator* that will help guide students through this whole process; for the 2020-2021 academic year, that is [Aaron Bloomfield](https://www.cs.virginia.edu/~asb).
-- CS 4970 will ***NOT*** be offered in the fall, nor will CS 4971 be offered in the spring; all students currently enrolled in the class will notified of this and de-registered from the course.
+- The capstone coordinator is [Aaron Bloomfield](https://www.cs.virginia.edu/~asb), who will help guide students through this whole process.
+- CS 4970 will ***NOT*** be offered in the fall, nor will CS 4971 be offered in the spring; students can take the capstone research path (see below under "Capstone Research") or the alternative path described here.
+- All coordination will be through the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/info/cs-capstone) email list, which anybody can subscribe to.  That list will include reminders and notifications; all capstone-related material will be posted on this page ([http://ugrads.cs.virginia.edu/capstone](http://ugrads.cs.virginia.edu/capstone)).
+- This alternative capstone path described here can be used by any BS CS major graduating before the end of 2021, including December 2021 graduations.
+- Students will still have to complete a project and write a technical report, as this is required to complete STS 4600.  Details about this are described further below.  Students will be provided with guidance as to how to write the proposals, abstracts, and technical reports at the appropriate times throughout the semester.
 - Graduating students will have to take 6 (six) CS electives, one of which will count in lieu of the 3 credits of capstone -- note that the number of credits required will remain the same (prior to this it was five electives and one capstone course; now it is six electives).
     - Once the technical report is approved (see below), the capstone coordinator will ensure that one of the CS electives counts for the capstone requirement in SIS.
-- Students will still have to complete a project and write a technical report; this is required to complete STS 4600.
-    - Students can work on their projects (and reports) individually or can self-select groups of up to four people; note that work required will scale with the group size, so it does not become "easier" with larger groups.
-	- All technical projects will somehow combine two CS electives; all members of the group will have had to have completed at least one of those electives, and be enrolled in the other one.
-	- The technical project is expected to take about one week's worth of effort per team member, presumably spread over many weeks.
-    - Once the fall semester starts, students will indicate their interest areas, requested group members, and project ideas, and will be assigned to faculty member reviewers based on this.
-	- Students will work with those faculty member reviewers to write an abstract, complete the project, and get the report approved.
-	- The intent is that the project itself is self-guided; what requires faculty feedback here is the project selection, the abstract writing and approval, and the report approval (inherent in the report approval is that the project was sufficiently completed).
-- This process can be completed in either the fall or spring semester.
-- The capstone coordinator will provide details about the timeline, how to select projects, and the writing of the abstracts and reports; these details will be available prior to the start of the fall semester.
-- Some details here are missing -- in particular, project ideas, what constitutes a sufficient project, how to combine two courses to create a valid project, etc.  We are working on writing this up in detail, and expect to have that posted here by mid-August.
-- The capstone will coordinate through the [cs-capstone@virginia.edu mailing list](https://lists.virginia.edu/sympa/admin/cs-capstone) -- only the capstone coordinator can email to it, but anybody can subscribe.  While some details will be posted on this web page before the semester starts, the details during the semester will only be emailed to that list.
-    - Anybody who was in the CS 4970 class will be automatically added to that list.
-	- An email will be sent out to all 4th year BSCS majors letting them know about the list.
-	- Students can add or remove themselves from the list at any time.
-	- Subscribers can view the archives of the emails sent to that list.
+- Students will be assigned to two faculty reviewers, a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.  If a student already has an agreement to work with a particular faculty member (and that faculty member agrees), then this will be taken into account when assigning faculty reviewers.
+    - The intent is that students will first submit a detailed project *idea*, and will be assigned to a faculty reviewer based on the areas of their idea.  The assigned faculty reviewers will help ensure is within scope of the project.  Based on this, the students will write a formal abstract.  Once that is approved by the faculty reviewers, the students will complete the project and write the report, which will also require faculty approval.
+- Students can work on their projects (and reports) individually or can self-select groups of up to four people; note that work required will scale with the group size, so it does not become "easier" with larger groups.
+- The technical project is expected to take about one week's worth of effort per team member, presumably spread over many weeks.
+- This process can be completed in either the fall or spring semester, but cannot span semesters (i.e., start in the fall and finish in the spring).
 
-----
+### Projects
 
-# Older capstone details
+All the technical projects will somehow combine two computer science upper-level courses; all reviewers of the group will have had to have completed at least one of those courses and be enrolled in the other one (part of the group can be enrolled in the first and taking the second, and the other part in the second and taking the first).  This "combining" means that the particular areas that the project covers must somehow draw from the topic areas of these two different computer science courses.  The intent is that the project itself is self-guided; what requires faculty feedback here is the project selection, determining the scope, the abstract writing and approval, and the final approval for the project and report.
 
-Note: If you are a BACS major then you have no capstone requirement, so none of this information applies to you. You may, however, do a capstone-like project to earn a [distinguished major](https://engineering.virginia.edu/departments/computer-science/academics/computer-science-undergraduate-programs/ba-computer-science#accordion67814).
+Below is a set of five possible categories for projects.  Different projects are possible upon approval of the faculty reviewers -- however, this approval needs to happen *before* faculty reviewers are assigned (students would be able to indicate if they had such an approval for a different project at the appropriate time in the semester to ensure assignment to that faculty reviewer).
 
-##What is a Capstone?
-Every Engineering student must complete a capstone project to complete their degree. In CS, these projects are typically either a research project or a software development project, but other kinds of projects may be acceptable as well. 
+**Propose a new tool:** The students shall propose a new software tool to help some group in some way.  Tools that help the broader community and have a broader impact are encouraged; it need not be a tool for CS or computer scientists.  The tool can be a new programming language, a new library, additional features added to an existing system / language, etc.  It can also be a software system that helps some aspect of society.  The proposal must be sufficiently detailed so that the reader understands what is fully being proposed, as well as an analysis of the feasibility.
 
-##How do I satisfy the Capstone Requirement?
-There are two components to your capstone: the technical portion and the STS portion. The STS portion is satisfied by STS4600, it cannot be completed earlier than your technical portion (and typically they are completed during the same semester).
+- The faculty reviewer can judge how viable the implementation would be.
+- A full (or even partial) implementation project is not required. An implementation would likely be a separate and external project, which would be handled separately from this capstone requirement; such an implementation would fall under a CS 4980 project (see "Capstone Research", below).
+- An acceptable project will include most of the following:
+    - Use case: who wants this tool (even if they don't know they want it yet)?  If appropriate, include an analysis of who will pay, how income will be generated to pay the expected expenses, etc.
+    - If not this, then what? How do people do this tool's work without the tool?
+    - Why this tool? How would this tool help?
+    - Tool architecture: how does it work? Client-server? Event-driven? What are the big pieces and how do they work together?
+    - Risk analysis: marketing aside, why might this tool fail to meet its needs? Include security, performance, etc as appropriate to the tool.
+    - Broader impact: how will this impact society and equity beyond the direct users? For example, could it be impacted by algorithmic bias? Are there groups who will be disproportionately impacted by it? Would it help mitigate any standing social problems?
+    - Larger teams should include a prototype implementation of key components of the tool.
 
-There are two courses in the CS department which satisfy the technical portion: **CS4971 (Capstone Practicum II)**, and **CS4980 (Capstone Research)**. The practicum is a more structured course which guides you and your team through a software project, Capstone Research is more of an independent study. 
+**Recommendation of changes to existing CS courses or propose a new CS course:** Such a report must clearly identify new topics to be covered, with corresponding suggested lecture notes, and lab / homework / project examples.  Discuss to how such changes could lead to better integration of topics across the two courses and why these additions are beneficial.  Propose at least one assignment per project member related to the integration of concepts.
+
+- The faculty reviewer can judge the appropriateness of the proposed new material.  The focus of the evaluation should be on whether students show in-depth understanding of the connections among concepts between the two courses, and whether the materials would be effective in helping other students learn the associated concepts, and not on whether the faculty member actually believes these courses changes should be implemented.
+- If proposing changes to an existing class, then one week of lecture material per project member is expected.
+- One option is to propose a new course; in this case, a detailed syllabus and a week's worth of material per team member would constitute an acceptable project.
+- An acceptable project will include most of the following:
+    - Identify a week of material per team member that integrates the courses.
+    - Provide an outline of how the material in question could be taught.
+    - Provide the description of a take-home assignment per week of material.
+    - If this will be added to a current course, identify material that can be removed to make room.
+    - If this will be added in a new course, list major topics that will fill the rest of the course and the new course's prerequisites.
+
+**Analyze existing research:** The student's paper must summarize and analyze a recently published peer-reviewed article (or multiple articles) in the given area; that integrates concepts from the selected two courses. The analysis should identify questions, flaws, additional insights, and directions for future work based on the paper; as well as explaining how the paper integrates concepts from the two selected courses. This category project probably does not scale well beyond a single student.
+
+- The particular paper to be analyzed would need to be approved by the faculty advisor(s), but can be suggested by the student(s).
+- The faculty reviewers overseeing this paper can help ensure that the paper being analyzed is appropriate, and would be able to tell if it is summarized and analyzed properly
+- One possibility is that the work presented in the article would be re-implemented by the student(s) to verify that the results can be obtained again, but implementation is not necessarily required.
+- This is not a book report -- if there is no re-implementation, then this would need to include an analysis of a number of supporting articles.
+
+**Literature review:** the students will need to analyze a significant amount of research in a given area, and summarize this analysis in a single cohesive paper.  The intent is that the summary and analysis of these papers is significantly less per paper than the previous category, and focuses more on the combined contributions of the set of papers and how the set of papers integrates concepts from the two selected courses.  This type of project scales well to larger groups.
+
+- The topic area would be within the faculty reviewers areas, so they would be able to determine if they summarized each properly.
+- Paper length in different areas varies widely, but 3-5 reviewed papers per team member is a reasonable range for many areas; the faculty reviewers will adjust this requirement up or down based on their given area.
+- An acceptable paper includes most of the following:
+    - 3-5 papers per team member.
+    - Include a taxonomy for the papers (group them based on similarity).
+    - Provide a "these papers collectively show/find X".
+    - Provide either "these papers all indicate X is future work" or "these papers disagree on X".
+    - Identify what course topics inform the majority of these papers.
+
+**Propose new research:** The paper must propose novel research in a given areas.  The faculty reviewer would be able to judge if this proposal is a valid area of research, and can help the student(s) refine their ideas prior to them writing the paper.
+
+- An acceptable paper would include all of the four items above
+    - Background
+    - Feasibility
+    - Motivation
+    - Expected contributions
+    - Groups of more 3-4 students must perform some implementation or novel analysis
+- The student and faculty member would have to work together to define what level of detail is acceptable here, since it will vary significantly between disciplines; this will require more work by the faculty member since there will be more back-and-forth between the student and faculty reviewers.
 
 
-#Capstone Practicum
+### Timeline
 
-###How does it work?
+The semester starts on Tuesday, August 25th; this is week 1 of the semester.  The items listed below happen some time during that week, and not necessarily by the start of the week.  Also, this timeline is subject to change, with appropriate notification to the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/admin/cs-capstone) email list.
 
-The practicum is a two-course sequence: CS4970 (Capstone Practicum I) and CS4971 (Capstone Practicum II). CS4970 is offered every fall (and only during the fall), and counts as one of your five required CS electives. CS4971 is offered every spring (and only during the spring), and satisfies the capstone requirement. 
+- Week 1 (week of Mon, Aug 24th): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.
+- Week 2 (week of Mon, Aug 31st): students work to generate project ideas.
+- Week 3 (week of Mon, Sep 7th): students fill out a online survey as to what courses their projects will combine.
+- Week 4 (week of Mon, Sep 14th): students are assigned to two faculty reviewers: a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.
+- Week 5 (week of Mon, Sep 21st): students write the abstracts for their projects and submit them.
+- Week 6 (week of Mon, Sep 28th): faculty review the abstracts and provide comments, including ensuring that the scope of the project is appropriate.
+- Week 7 (week of Mon, Oct 5th): if the abstracts need revision, then this week is for those revisions.
+- Week 8 (week of Mon, Oct 12th): students work on the project.
+- Week 9 (week of Mon, Oct 19th): students work on the project.
+- Week 10 (week of Mon, Oct 26th): students work on the project.
+- Week 11 (week of Mon, Nov 2nd): students write the paper.
+- Week 12 (week of Mon, Nov 9th): students submit the paper; faculty review starts.
+- Week 13 (week of Mon, Nov 16th): faculty review continues.
+- Week 14 (week of Mon, Nov 23rd): faculty provide feedback on the paper; if feedback is that the paper is acceptable, then this capstone process is complete.
 
-In CS4971 you will complete the same project that you began in CS4970. For this reason, you may only take CS4971 if you took CS4970 the fall of the same academic year (i.e. the immediately preceding fall).
+All classes end the Tuesday of week 14 (on Tuesday, Nov 24th), which is just before Thanksgiving.  The two weeks after Thanksgiving are for final exams, and will be used for the capstone timeline if necessary.
 
-###How do I enroll?
+- Week 15 (week of Mon, Nov 30th): students who have to review the paper can do so and resubmit.
+- Week 16 (week of Mon, Dec 7th): faculty provide feedback on the revised paper.
 
-**To graduate in the spring:** sign up for CS4970 in the fall of your last academic year. (e.g. If you are graduating in the spring of your fourth year, take CS4970 in the fall of your fourth year. If you are graduating in the spring of your third year, take CS4970 in the fall of your third year.)
 
-**To graduate in the fall:** sign up for CS4970 in the fall of the academic year before your graduation. (e.g. If you wish to graduate in the fall of your fourth year, take CS4970 in the fall of your third year.)
 
-#Capstone Research
 
-###How does it work?
+
+
+
+# Capstone Research
+
+### How does it work?
+
 You may satisfy this requirement by completing 3 total credits of CS4980 with any CS faculty member who agrees to be your advisor. These credits must be taken with the same faculty member, but need not be taken during the same semester. You may, for example, take 1 credit of CS4980 in the fall and 2 credits of CS4980 in the spring. 
 
 
-###How do I enroll?
+### How do I enroll?
 
 There are three options:
 
@@ -76,42 +133,14 @@ There are three options:
 1. Find a faculty member who is willing to work on a project idea of yours. Once the faculty member agrees to work with you, sign up for their section of CS4980. To start, look at the course offerings of the past several semesters and the [available projects](http://research.cs.virginia.edu/) to identify faculty members with interests that align with your project.
 1. Find a friend who is already matched with a faculty member and ask both the friend and the faculty member if you can join that project. Sign up for that faculty member's section of CS4980.
 
-#Which option is best for me?
+### Frequently Asked Questions
 
-|If you... |Then you should likely take...|
-|--------- |---------------------------------|
-|Want to graduate in a fall semester | **Capstone Research**. You *can* complete the Capstone practicum, but you must enroll in CS4970 during the fall of the academic year prior to your graduation.|
-|Want to study abroad during your last year | **Capstone Research**. Since the practicum is a two semester sequence, you *cannot* satisfy the capstone requirement if you are away from UVA for either semester.|
-|Are considering graduate school | **Capstone Research**, since it provides opportunity for you to gain research experience, and to work more closely with a faculty member (providing a fantastic resource for recommendation letters and general application advice).|
-|Want the structure of an organized course | **Capstone Practicum**. This is a formal course with regular deadlines and pre-defined rubrics. Capstone research is likely to be more self-guided.|
-|Haven't yet selected either option, and you want to graduate *this* semester | **Capstone Research**. Since each half of the Capstone Practicum is offered once per year, there is no way to finish both portions in a single semester.|
+#### Can a professor in another department supervise my work and be my instructor for CS4980? 
 
-#When should I decide?
-
-Ideally you should speak with your academic advisor about these options at least three semesters before your target graduating semester. If course sign-ups are approaching for the fall before you plan to graduate, and you haven't yet decided, then sign up for CS4970. You can drop that course if you find a faculty member willing to advise you for CS4980 before the drop deadline. At the very latest, you need to have identified early during the semester you take CS4500.
-
-#Frequently Asked Questions
-
-###Can a professor in another department supervise my work and be my instructor for CS4980? 
 Only CS faculty members may advise CS4980. Some faculty may be willing to co-advise with faculty from other departments. If a CS faculty member agrees to advise you, enroll for the CS faculty member's section of CS4980.
 
-###Can I take CS4970 in a semester other than Fall, or CS4971 in a semester other than Spring?
-No, Each of these are only offered once a year.
 
-###Can I take CS4970/4971 in my third year?
-Yes, but there may not be room in the class. Our first priority must be to provide all seats needed by graduating fourth years.
+#### Can the work I do to satisfy CS4980 be work that I did as part of an internship or part-time job, with someone from the company directing that?
 
-###Can the work I do to satisfy CS4980 be work that I did as part of an internship or part-time job, with someone from the company directing that?
 Only CS faculty members may advise CS4980. Some faculty may be willing to co-advise with your employer. If a CS faculty member agrees to advise you, enroll for the CS faculty member's section of CS4980. The project (or portion thereof) used as your capstone must be completed *in addition* to your employment tasks (i.e. you cannot have been paid for doing it), and must be agreed upon by your CS faculty advisor in advance of your internship.
-
-###I took CS4970 during the fall, but I cannot take CS4971 the immediately following spring. What should I do?
-You have two options:
-
-1. Take CS4980 to fulfill your capstone requirement instead (CS4970 will still count as a CS elective).
-1. Re-take CS4970 the following fall (note that you cannot receive credit for the course twice), then take CS4971 in the immediately following spring.
-
-###My STS Instructor asked me who my technical advisor is. Who is that?
-
-If you are enrolled in CS4970/4971, your technical advisor is the instructor of that course. If you are enrolled in CS4980, then it is the faculty member in whose section you are enrolled. If you are not enrolled in either, then you should find a faculty member who agrees to be your technical advisor ASAP. You will enroll in that instructor's section of CS4980 (either during the current semester or the following).
-
 

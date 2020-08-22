@@ -1,3 +1,5 @@
+title: Curricular Practical Training (CPT)
+
 On Apr 19, 2016, at 2:45 PM, Mark Sherriff <sherriff@virginia.edu> wrote:
 
 Undergraduates sometimes ask faculty to give them course credit as part of a program called Curricular Practical Training (CPT),
