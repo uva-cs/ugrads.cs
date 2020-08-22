@@ -17,7 +17,7 @@ The details:
 
 - The capstone coordinator is [Aaron Bloomfield](https://www.cs.virginia.edu/~asb), who will help guide students through this whole process.
 - CS 4970 will ***NOT*** be offered in the fall, nor will CS 4971 be offered in the spring; students can take the capstone research path (see below under "Capstone Research") or the alternative path described here.
-- All coordination will be through the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/info/cs-capstone) email list, which anybody can subscribe to.  That list will include reminders and notifications; all capstone-related material will be posted on this page ([http://ugrads.cs.virginia.edu/capstone](http://ugrads.cs.virginia.edu/capstone)).
+- All coordination will be through the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/info/cs-capstone) email list, which anybody can subscribe to.  That list will only be for reminders and notifications; all capstone-related material will be posted on this page ([http://ugrads.cs.virginia.edu/capstone](http://ugrads.cs.virginia.edu/capstone)).
 - This alternative capstone path described here can be used by any BS CS major graduating before the end of 2021, including December 2021 graduations.
 - Students will still have to complete a project and write a technical report, as this is required to complete STS 4600.  Details about this are described further below.  Students will be provided with guidance as to how to write the proposals, abstracts, and technical reports at the appropriate times throughout the semester.
 - Graduating students will have to take 6 (six) CS electives, one of which will count in lieu of the 3 credits of capstone -- note that the number of credits required will remain the same (prior to this it was five electives and one capstone course; now it is six electives).
@@ -92,7 +92,7 @@ Below is a set of five possible categories for projects.  Different projects are
 
 The semester starts on Tuesday, August 25th; this is week 1 of the semester.  The items listed below happen some time during that week, and not necessarily by the start of the week.  Also, this timeline is subject to change, with appropriate notification to the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/admin/cs-capstone) email list.
 
-- Week 1 (week of Mon, Aug 24th): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.
+- Week 1 (week of Mon, Aug 24th): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.  That form is a Piazza group via [this collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778) that any UVa student can join.
 - Week 2 (week of Mon, Aug 31st): students work to generate project ideas.
 - Week 3 (week of Mon, Sep 7th): students fill out a online survey as to what courses their projects will combine.
 - Week 4 (week of Mon, Sep 14th): students are assigned to two faculty reviewers: a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.
