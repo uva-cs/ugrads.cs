@@ -113,8 +113,19 @@ All classes end the Tuesday of week 14 (on Tuesday, Nov 24th), which is just bef
 - Week 16 (week of Mon, Dec 7th): faculty provide feedback on the revised paper.
 
 
+### <a name='sts45004600'>The Capstone and the STS 4500/4600 sequence</a>
 
+All Engineering students have to complete a senior thesis -- and generate a senior thesis "binder" -- in order to graduate.  The specifications for this are defined by STS.  In particular, the binder will have three main parts:
 
+- A *prospectus*, which you will write in STS 4500 (and STS 4500 guides you through the writing of the prospectus)
+- A *thesis*, which you will write in STS 4600 (and STS 4600 guides you through the writing of the thesis)
+- A *technical report*, which is what you create through the process described on this page
+
+Those three parts are combined, along with a few other single page documents (cover, signature page, socio-technical synthesis, etc.) to create the final senior thesis binder.  In the past, this was printed and bound into a binder (hence the "binder" name for it all), but the pandemic will likely change that to an online PDF submission.  The only part of the senior thesis binder that a graduating 4th year's major department deals with is the technical report; all other aspects are handled via the STS 4500/4600 sequence of classes.
+
+Disclaimer: this section is for informational purposes only; the formal process for the STS senior thesis binder is specified by STS, and what is above is my understanding.  Your STS instructor(s) will lay out the specific details of the process, which obviously override what is listed here.
+
+You can still do this process, and the writing of your technical report, in the spring -- you just can't successfully complete STS 4600 without the technical report, as you would not be able to complete the binder.  So it can be done either semester.
 
 
 
