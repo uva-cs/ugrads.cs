@@ -73,5 +73,6 @@ Connect with us and other majors
 --------------------------------
 
 - [CS Advising on Piazza](https://piazza.com/virginia/other/csadvising): anybody can join, and it's a great place to ask advising questions
-- [CS @ UVa slack channel](https://uva-compsci.slack.com/)
+- [ACM@UVA Discord server](https://discord.gg/wxWgbVs)
 - [Facebook group](https://www.facebook.com/groups/216856585086114) that anybody can post to
+- [CS @ UVa slack channel](https://uva-compsci.slack.com/) - currently being phased out
