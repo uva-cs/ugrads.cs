@@ -112,6 +112,8 @@ All classes end the Tuesday of week 14 (on Tuesday, Nov 24th), which is just bef
 - Week 15 (week of Mon, Nov 30th): students who have to review the paper can do so and resubmit.
 - Week 16 (week of Mon, Dec 7th): faculty provide feedback on the revised paper.
 
+The cs-capstone list has emails sent out on a weekly basis, generally on Mondays.  If you missed any of those emails, you can see them [here](/capstone_emails.html)
+
 
 ### <a name='sts45004600'>The Capstone and the STS 4500/4600 sequence</a>
 
