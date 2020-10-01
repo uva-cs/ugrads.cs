@@ -51,9 +51,9 @@ Welcome to week 3 of the semester!  Some capstone updates:
     - I am still waiting on clarification as to what you should do about listing the *topic* of your technical project if you are doing the technical report in the spring -- I've sent an email out asking about this, and will update when I receive back (right away on [Piazza via the Collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778/page-reset/bb5bea89-eeec-456c-ba1c-87ab3f2ac8f7), and next week via this weekly email).
 - Time to fill out the project matching survey!
     - If you intend to complete the technical project ***this fall***, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc-aD4Ml2PSHR5I5i2cma643KpvOJhrsqY-xZS_nKoazRMY8A/viewform).
-    - - This has to be filled out by next Monday in order to complete this process this fall.
+        - This has to be filled out by next Monday in order to complete this process this fall.
     - If you intend to complete the technical project ***in the spring***, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdUClgqRGqRWZDiCJTOYoVBaoVKKwubN9S0TElIbI0bRM_XeA/viewform).
-    - - This lets me know who I have to provide signatures to for their technical reports.
+        - This lets me know who I have to provide signatures to for their technical reports.
     - Please only fill out ONE OF THEM, not both!
 
 
