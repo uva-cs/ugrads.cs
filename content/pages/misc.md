@@ -1,7 +1,8 @@
 Title: Miscellaneous Policies
 url: misc.html
 save_as: misc.html
-sortorder: 1
+sortorder: 30
+status:hidden
 
 ## Can I get credit for my internship?
 

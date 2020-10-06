@@ -1,4 +1,4 @@
-PY?=python
+PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
 
@@ -62,7 +62,9 @@ help:
 	@echo '                                                                          '
 
 html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -t theme/uvaeng/ --ignore-cache
+	#@/bin/mv -f output/pages/*.html output/
+	#@/bin/rm -rf output/pages
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -121,4 +123,25 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github local
+
+local:
+	sed -i s_/theme/css/_theme/css/_g output/*.html
+
+htmllocal:
+	make html
+	make local
+
+contents:
+	@echo generating contents.md...
+	@echo "Title: Contents" > content/pages/contents.md
+	@echo "url: contents.html" >> content/pages/contents.md
+	@echo "save_as: contents.html" >> content/pages/contents.md
+	@echo "sortorder: 2" >> content/pages/contents.md
+	@/bin/echo >> content/pages/contents.md
+	@echo "Many of the pages for this website are not displayed in the navigation bar above, and are shown in full here, sorted alphabetically." >> content/pages/contents.md
+	@/bin/echo >> content/pages/contents.md
+	@for file in `cd content/pages; ls *.md | sed s/.md//g`; do \
+		title=`head -1 content/pages/$$file.md | cut -b 8-`; \
+		echo "- [$$title]($$file.html)" >> content/pages/contents.md ; \
+	done

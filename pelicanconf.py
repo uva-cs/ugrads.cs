@@ -45,3 +45,6 @@ RELATIVE_URLS = True
 
 ARTICLE_ORDER_BY = 'sortorder'
 PAGE_ORDER_BY = 'sortorder'
+
+DELETE_OUTPUT_DIRECTORY = True
+PAGE_SAVE_AS = '{slug}.html'

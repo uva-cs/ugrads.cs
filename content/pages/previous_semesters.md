@@ -1,7 +1,8 @@
 Title: Previous Semester Info
 url: previous_semesters.html
 save_as: previous_semesters.html
-sortorder: 1
+sortorder: 90
+status:hidden
 
 
 Information for Spring 2020

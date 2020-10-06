@@ -1,7 +1,8 @@
 Title: BSCS Capstone Emails
 url: capstone_emails.html
 save_as: capstone_emails.html
-sortorder: 1
+sortorder: 11
+status:hidden
 
 This page has the archive of the emails that were sent to the cs-capstone email list for the fall 2020 semester.  The emails are generally (but not always) sent out on Monday of each respective week.
 

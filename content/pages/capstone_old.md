@@ -1,7 +1,8 @@
 Title: BSCS Capstone, pre-pandemic details
-url: capstone.html
+url: capstone-old.html
 save_as: capstone-old.html
-sortorder: 1
+sortorder: 12
+status:hidden
 
 # Older capstone details
 

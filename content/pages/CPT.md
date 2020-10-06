@@ -1,5 +1,8 @@
-title: Curricular Practical Training (CPT)
-sortorder: 10
+Title: Curricular Practical Training (CPT)
+url: CPT.md
+save_as: CPT.html
+sortorder: 80
+status:hidden
 
 On Apr 19, 2016, at 2:45 PM, Mark Sherriff <sherriff@virginia.edu> wrote:
 

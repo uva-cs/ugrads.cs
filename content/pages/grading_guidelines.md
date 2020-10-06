@@ -1,7 +1,8 @@
 Title: Grading Guidelines
 url: grading-guidelines.html
 save_as: grading-guidelines.html
-sortorder: 100
+sortorder: 70
+status:hidden
 
 
 This document was approved as an official guideline for the CS department and its associated courses by vote of the CS faculty on 2019-02-18.

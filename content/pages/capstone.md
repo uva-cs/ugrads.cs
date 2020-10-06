@@ -1,9 +1,9 @@
-Title: BSCS Capstone
+Title: Capstone
 url: capstone.html
 save_as: capstone.html
-sortorder: 1
+sortorder: 10
 
-**Due to the Covid-19 pandemic, the capstone process for the upcoming academic year (2020-2021) will be quite different, and CS 4970/4971 will NOT be offered.  Read below for details.**
+**Due to the Covid-19 pandemic, the BSCS capstone process for the upcoming academic year (2020-2021) will be quite different, and CS 4970/4971 will NOT be offered.  Read below for details.**
 
 # Academic year 2020-2021 Details
 
@@ -112,7 +112,7 @@ All classes end the Tuesday of week 14 (on Tuesday, Nov 24th), which is just bef
 - Week 15 (week of Mon, Nov 30th): students who have to review the paper can do so and resubmit.
 - Week 16 (week of Mon, Dec 7th): faculty provide feedback on the revised paper.
 
-The cs-capstone list has emails sent out on a weekly basis, generally on Mondays.  If you missed any of those emails, you can see them [here](/capstone_emails.html)
+The cs-capstone list has emails sent out on a weekly basis, generally on Mondays.  If you missed any of those emails, you can see them [here](capstone_emails.html)
 
 
 ### <a name='sts45004600'>The Capstone and the STS 4500/4600 sequence</a>

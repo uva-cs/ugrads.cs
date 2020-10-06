@@ -1,4 +1,6 @@
 Title: Student Groups
+url: groups.html
+save_as: groups.html
 sortorder: 2
 
 - The local [Association for Computing Machinery (ACM)](http://acm.cs.virginia.edu) chapter, which hosts weekly or bi-weekly social and academic events
