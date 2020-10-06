@@ -80,6 +80,20 @@ Best,
 -Aaron Bloomfield
 
 
+
+**The STS 4500/4600 process:** first, a disclaimer: I am faculty in computer science, not STS, so anything that they say overrides anything that I say; I am providing this to help alleviate confusion.
+
+While the course goals of STS 4500 and 4600 are numerous, among other things they will guide you through the process of completing your senior thesis.  To successfully finish STS 4600, you will need to complete your **senior thesis binder**, which will consist of three main components: a *prospectus*, a *STS thesis*, and a *technical report*.  Note that the STS department may use slightly different names for everything, but the concepts should all be the same.
+
+- The *prospectus* is what you complete in STS 4500, and it is where you propose a research project and perform the background work to ensure that it's a realistic idea, is asking a valid question, it will contribute to society, etc.
+- The *STS thesis* is what you complete in STS 4600.  This is where you perform the investigation research proposed in the prospectus, which may largely involve looking up information in libraries or online.
+    - There is a naming problem here -- the term "senior thesis" means this entire process, and to fulfill that you have to complete the senior thesis binder.  The "STS thesis" is what you complete in STS 4600.  The fact that they both have the word "thesis" in it causes a lot of confusion.  I will always put the prefix of "senior" or "STS" in front of the word "thesis" to help clarify which one I'm talking about.
+    - While technically the topic of your prospectus and your STS thesis do not have to be the same, they often are -- and it will likely be easiest if they are.
+- The *technical report* is what you write with your home department (dual majors just choose one).  This is written with, and approved by, your faculty technical advisor.
+    - In a perfect world, your technical project will directly relate to the topic you choose for your prospectus and STS thesis.  But if they don't -- which is often the case -- you will have to write a document that describes how they relate.  This is the socio-technical synthesis.  I have seen a lot of ... creativity ... with these documents.
+
+These three main components are combined with a few other one or two page documents (cover, signature page, socio-technical synthesis, etc.) to form the full senior thesis binder.  This binder is required to be completed in order to successfully complete (i.e., pass) STS 4600.  In the past, this had to actually be printed and bound, but I suspect it's all being done via a PDF these days.
+
 ### <a name='week5'>Week 5 (week of Mon, Sep 21st)</a>
 
 Hi, all,
