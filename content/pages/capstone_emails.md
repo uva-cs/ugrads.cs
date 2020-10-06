@@ -6,7 +6,7 @@ sortorder: 1
 This page has the archive of the emails that were sent to the cs-capstone email list for the fall 2020 semester.  The emails are generally (but not always) sent out on Monday of each respective week.
 
 
-### Week 1 (week of Mon, Aug 24th)
+### <a name='week1'>Week 1 (week of Mon, Aug 24th)</a>
 
  Hi, all,
 
@@ -22,7 +22,7 @@ Best,
 -Aaron Bloomfield
 
 
-### Week 2 (week of Mon, Aug 31st)
+### <a name='week2'>Week 2 (week of Mon, Aug 31st)</a>
 
 Hi, all,
 
@@ -38,7 +38,7 @@ Best,
 -Aaron Bloomfield
 
 
-### Week 3 (week of Mon, Sep 7th)
+### <a name='week3'>Week 3 (week of Mon, Sep 7th)</a>
 
  Hi, all,
 
@@ -61,7 +61,7 @@ That's all I have for now.  Stay healthy, everybody!  And wear those masks!!!
 
 -Aaron Bloomfield
 
-### Week 4 (week of Mon, Sep 14th)
+### <a name='week4'>Week 4 (week of Mon, Sep 14th)</a>
 
  Hi, all,
 
@@ -79,7 +79,7 @@ Best,
 -Aaron Bloomfield
 
 
-### Week 5 (week of Mon, Sep 21st)
+### <a name='week5'>Week 5 (week of Mon, Sep 21st)</a>
 
 Hi, all,
 
@@ -111,7 +111,7 @@ I would expect that writing and editing the abstract would take an hour or two. 
 
 
 
-### Week 6 (week of Mon, Sep 28th)
+### <a name='week6'>Week 6 (week of Mon, Sep 28th)</a>
 
 
 Hi, all,
@@ -133,7 +133,7 @@ Best,
 The original intent was to use an actual conference submission system, such as [HotCRP](https://hotcrp.com/) (yes, it's pronounced as "hot crap").  But I don't feel that we need most of the additional features that it provides, and will just add complexity and confusion, so I decided to ditch that option.  But it took a while to figure out how to manage the various aspects internally, hence the delay in getting this week's update out on time.  That, and the fact that I was backpacking the Appalachian Trail this past weekend might have had something to do with it as well...
 
 
-### Week 7 (week of Mon, Oct 5th)
+### <a name='week7'>Week 7 (week of Mon, Oct 5th)</a>
 
 Hi, all,
 
@@ -152,14 +152,14 @@ For the email, you should include the following bullet points.  PLEASE REWRITE T
 
 That's pretty much it -- hit all the salient ideas above, but keep it short and to the point.  And if you forget who your faculty advisors are, or what their email IDs are, you can check in the Posted Feedback tool in the "CS Capstone" workspace.
 
-Best,
+Best,  
 -Aaron Bloomfield
 
 
-### Week 8 (week of Mon, Oct 12th)
-### Week 9 (week of Mon, Oct 19th)
-### Week 10 (week of Mon, Oct 26th)
-### Week 11 (week of Mon, Nov 2nd)
-### Week 12 (week of Mon, Nov 9th)
-### Week 13 (week of Mon, Nov 16th)
-### Week 14 (week of Mon, Nov 23rd)
+### <a name='week8'>Week 8 (week of Mon, Oct 12th)</a>
+### <a name='week9'>Week 9 (week of Mon, Oct 19th)</a>
+### <a name='week10'>Week 10 (week of Mon, Oct 26th)</a>
+### <a name='week11'>Week 11 (week of Mon, Nov 2nd)</a>
+### <a name='week12'>Week 12 (week of Mon, Nov 9th)</a>
+### <a name='week13'>Week 13 (week of Mon, Nov 16th)</a>
+### <a name='week14'>Week 14 (week of Mon, Nov 23rd)</a>
