@@ -42,6 +42,7 @@ help:
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
 	@echo '   make html                           (re)generate the web site          '
+	@echo '   make contents                       auto-generate the contents.md page '
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
@@ -125,13 +126,6 @@ github: publish
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github local
 
-local:
-	sed -i s_/theme/css/_theme/css/_g output/*.html
-
-htmllocal:
-	make html
-	make local
-
 contents:
 	@echo generating contents.md...
 	@echo "Title: Contents" > content/pages/contents.md
@@ -145,3 +139,10 @@ contents:
 		title=`head -1 content/pages/$$file.md | cut -b 8-`; \
 		echo "- [$$title]($$file.html)" >> content/pages/contents.md ; \
 	done
+
+# the following is for Aaron's use on his local machine
+
+orionlocal:
+	make html
+	sed -i s_/theme/css/_theme/css/_g output/*.html
+

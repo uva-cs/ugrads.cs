@@ -3,8 +3,8 @@ url: about.html
 save_as: about.html
 sortorder: 20
 
-This site is maintained by [Aaron
-Bloomfield](http://www.cs.virginia.edu/~asb), and is kept in the
+This site is maintained by [Luther
+Tychonievich](https://www.cs.virginia.edu/luther/), and is kept in the
 [uva-cs/ugrads.cs github
 repository](https://github.com/uva-cs/ugrads.cs).  Feel free to send
 him any updates or suggested changes for this site.
@@ -16,7 +16,7 @@ request](https://help.github.com/articles/about-pull-requests/) or by
 emailing the contact above.
 
 The actual HTML pages are built using
-[Pelican](http://getpelican.com/) version 4.0.2, and the source is in
+[Pelican](http://getpelican.com/) version 3.7.1, and the source is in
 [Markdown](https://daringfireball.net/projects/markdown/syntax).
 However, one does not need to have Pelican installed to edit the site,
 as the [http://ugrads.cs.virginia.edu](http://ugrads.cs.virginia.edu)
