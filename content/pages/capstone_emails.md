@@ -196,6 +196,18 @@ Best,
 
 
 ### <a name='week9'>Week 9 (week of Mon, Oct 19th)</a>
+
+Hi, all,
+
+I have capstone abstract approvals from most of you.  I just sent an email to those that I do **not​** have an approved abstract for, as well as a schedule for those individuals.  If you didn't get an email from me about 5 minutes ago, then I have your abstract approval recorded.
+
+This week and next week are for you to work on the project itself.  Once we start November, I'll be sending out instructions how to start writing up the technical report itself.  Not much else for this week's update.
+
+Stay healthy!
+
+Best,  
+-Aaron Bloomfield
+
 ### <a name='week10'>Week 10 (week of Mon, Oct 26th)</a>
 ### <a name='week11'>Week 11 (week of Mon, Nov 2nd)</a>
 ### <a name='week12'>Week 12 (week of Mon, Nov 9th)</a>
