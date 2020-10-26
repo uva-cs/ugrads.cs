@@ -209,6 +209,17 @@ Best,
 -Aaron Bloomfield
 
 ### <a name='week10'>Week 10 (week of Mon, Oct 26th)</a>
+
+Hi, all,
+
+We are now in week 10 of the semester!  As per the schedule found [here](http://ugrads.cs.virginia.edu/capstone), this is another week for you to work on your project.  Next week is when you'll start writing up the project to form the technical report, and I will have detailed guidelines about how to write that in next week's update.  I expect the report can be written in one week, and then sent to your faculty advisors.  They'll need a week or two to look it over.  Either they will want changes, or they will accept it as-is.  But eventually you'll have a completed technical report, and we can work on figuring out getting the signatures (also a topic to be discussed later).
+
+Stay healthy, everybody!
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week11'>Week 11 (week of Mon, Nov 2nd)</a>
 ### <a name='week12'>Week 12 (week of Mon, Nov 9th)</a>
 ### <a name='week13'>Week 13 (week of Mon, Nov 16th)</a>
