@@ -221,6 +221,74 @@ Best,
 
 
 ### <a name='week11'>Week 11 (week of Mon, Nov 2nd)</a>
+
+Hi, all,
+
+Welcome to week 11!  In theory, your projects are complete or almost complete.  Or perhaps you are going to have a really late night tonight getting to that state.
+
+If you are doing the capstone in the spring, I'll be sending you a separate email later today, as long as you filled out the [form indicating that you are completing the capstone in the spring](https://docs.google.com/forms/d/1ZnDxw_nt0NuBfSRt6EZmSfvtmz80iHTkWCYhejAdGXk/edit).
+
+The upcoming week is for the writing of the technical report, which I detail below.  You may email it to your faculty advisors when it is ready.  HOWEVER, if it is not formatted as per the guidelines below, they have been told to reject it outright.  Note that you also have to send evidence of a successful project along with the report -- what that evidence is will depend on your particular project.
+
+Below are the details for the writing of the report.
+
+Stay healthy, everybody!
+
+Best,  
+-Aaron Bloomfield
+
+
+<p>&nbsp;</p>
+
+
+**__Technical report writing 101__**
+
+The technical reports are to be formatted as per the ACM guidelines for articles.  Note that technical report formatting is to be determined by the technical faculty advisor.
+
+The papers need to be formatted as per the guidelines [here](https://www.acm.org/publications/proceedings-template).  You can use Word or LaTeX; most of you will use the former.  If you are using Word, then you want to use the [Interim layout.docx](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx) file on that site.  This format is two-column, single spaced, size 10 font, standard margins, 5-6 pages, and will be somewhere between 4,000 to 5,000 words.
+
+You are welcome to use a group editing site (Google Docs, etc.) to edit the content, just be sure to put it in that format when it's done.  You will also want to send along a PDF when you send it to your faculty advisors.  Also note that your references need to be in the format specified in that template.
+
+The paper audience is other computer scientists -- so you don't need to explain what a database system is, for example.  You can assume that any readers of the paper have a degree in CS or -- like all of you -- are about to graduate with a degree in CS.
+
+Please don't include any fluff.  Fluff is when you add BS to the paper to make it longer.  You should not have problems getting the length required.  And if it's short, it's better to leave it short than add in fluff.  Many faculty will reject it outright if it contains fluff -- I know I would
+
+Below is a list of the sections of the paper.  Depending on your particular project, your list of sections may vary somewhat.
+
+- **Abstract:** this is what you got approved by your faculty advisor a few weeks ago.  Minor edits are fine, but you should check with your advisor if you are making any significant changes to it.
+- **CCS concepts and keywords:** you should remove these sections
+- **Introduction:** Describe the problem faced that the project seeks to fix.  How is this project solved currently?  How long does it take with the current solutions? What problems does the current way of solving it cause?  We are setting the stage for how and why your project will be beneficia.
+- **Background:** What do they need to know to understand the project?  Likely information about the domain that it's in, as well as the technologies used.  Keep in mind that the audience is computer scientists, so you don't need to go into detailed explanations about the technologies.  This section may be quite short -- or even removed -- depending on your particular project.
+- **Related work:** what other systems exist that do similar things? Are they custom written, or generic? Why don't they fit the bill?  This gives a context of what else is out there, so that one can understand where your system fits into everything.  Literature review projects will list other literature reviews or summaries of the research area here.
+- **System design:** how was the system (project) designed?  This should focus on two primary aspects: the overall system architecture (no low-level details!) and interesting/challenging/etc. design decision.  This will likely be the largest section, likely also with sub-sections.  Literature review projects will detail the various articles being reviewed here.
+- **Procedure:** If appropriate; this may be removed from your report if not appropriate.  How does the customer use the system?  How do other stakeholders use the system?
+- **Results:** The system solved some problem – what are the results of that?  There should be some evidence that this project fixed some problem -- present that evidence.  We aren't looking for a scientific study, so anecdotal evidence here is fine.  Get a couple of friends to try out the system, and ask them what they think of it.  Example: "The scheduler allowed the customer to prepare a schedule in 30 minutes, where it took 3 hours before."  Literature reviews will likely not have this section.
+- **Conclusions:** Summarize your article and your work: "We designed a system to meet the need of problem X."  Summarize (and repeat) the relevant results that make the system look good.  Literature reviews will summaries the common themes of the articles being reviewed.
+- **Future work:** If you had a full-time job for an entire year to work on this system -- and only this system -- what features would you add?  If you make this section too long, it will make it look like you didn't do anything on the project.  So maybe 1/2 of a column at most.
+- **References:** They need to look like the references in the template.
+
+
+__Other stuff to include__
+
+ - Feel free to add (or remove) sections -- what is listed here are just suggestions. 
+     - Indeed, some of the sections are not appropriate for all projects
+     - But most of the projects will have all of those sections, although not everybody will have background and procedure.
+ - Longer sections should include sub-sections
+ - Screen shots
+     - Screen shots, images, etc., are fine -- but this is not a picture book, so use these sparingly
+     - The article is not a picture book, but a screen shot or two is not unreasonable, as this can make it easier for the reader to visualize what is going on
+     - Total screen shot usage should not take up more than 1/2 page, total
+
+
+__Stuff to remove__
+
+In the templates, there are a few items that we do not need:
+
+ - The license block (very bottom of the 1st column on the first page)
+ - General terms and Subject Descriptions (likely not present)
+ - CCS categories
+ - Keywords
+
 ### <a name='week12'>Week 12 (week of Mon, Nov 9th)</a>
 ### <a name='week13'>Week 13 (week of Mon, Nov 16th)</a>
 ### <a name='week14'>Week 14 (week of Mon, Nov 23rd)</a>
