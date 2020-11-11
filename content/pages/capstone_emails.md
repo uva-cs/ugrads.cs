@@ -290,5 +290,29 @@ In the templates, there are a few items that we do not need:
  - Keywords
 
 ### <a name='week12'>Week 12 (week of Mon, Nov 9th)</a>
+
+Hi, all,
+
+Sorry this is a day late -- I'll blame the aftermath of the election, but really this just slipped my mind yesterday.
+
+This week is when you should be submitting your reports to your technical advisors -- email it to the primary, and CC the secondary.  After you send an email, and wait a reasonable amount of time (say, 4 days), one of the following will occur:
+
+-    **No response:** be sure to wait at least 4 days, and then GENTLY and POLITELY ask them again.  There is no need to antagonize your technical advisor because they are slow at responding to your email.
+-    **"I'll respond soon":** the technical advisor may respond that they will look it over shortly and get back to you.  Wait until, say, early next week and then GENTLY and POLITELY check in with them.
+-    **Accepted:** if they accept it, then congratulations!
+    -        You should probably send them a thank-you for working with you through all of this.
+    -        Make sure I receive a copy of your technical advisor's approval email so that I can mark it off in my records. 
+    -        You will need to get their signature on some forms and cover pages, as dictated by STS.  It is likely that you will also need to get your technical advisor's signature next semester in STS 4600 for the final binder as well.  You should contact them about getting their signature once you know what form(s) it needs to be on.
+    -        You will need to let me know which CS elective you want to count as your capstone credit.  There is no need for that to happen now -- I will email you about this at the very end of the semester (I want to do this via Google form so the information is all in one place, and not by everybody sending me separate emails).
+-    **Needs revisions:** your technical advisor may want you to make revisions on the writing of the technical report and/or the project itself.  If those revisions are reasonable, then make them and resubmit the (updated) report to your advisor.  If you don't feel they are reasonable, then you and I can have a chat about it.
+-    **Outright rejection:** this is when your technical advisor rejects it without the possibility of revising it for resubmission.  If you have put in sincere effort to do the project that your technical advisor has approved in the abstract, then this is not likely to occur.  If this does happen, then something went wrong -- email me and we can chat about your options.  But I am not expecting this to occur.
+
+
+That's all for this week!
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week13'>Week 13 (week of Mon, Nov 16th)</a>
 ### <a name='week14'>Week 14 (week of Mon, Nov 23rd)</a>
