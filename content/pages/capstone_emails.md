@@ -315,4 +315,26 @@ Best,
 
 
 ### <a name='week13'>Week 13 (week of Mon, Nov 16th)</a>
+
+Hi, all,
+
+Welcome to week 13 of the semester!  Only one more full week of classes.
+
+Presumably your faculty reviewers have received your technical reports, and are looking them over.  You should hear some sort of positive or negative response from them by late this week -- if not, send them a ping.  Last week we talked about how to handle the various states of capstone approval; see [here](http://ugrads.cs.virginia.edu/capstone_emails) for details (look under the 'week 12' header).
+
+Once I receive notification of approval, I am confirming that with the student(s) in the capstone groups.  So, once approved, you'll get an email from me indicating that I am aware that your capstone has been approved.  I'm eternally behind in my emails, so that confirmation may take a number of days to arrive.
+
+Once you have gotten approval of your technical report from your technical advisor, the following things have to be done:
+
+-    You will need his/her signature on your various cover pages for your prospectus.  This is as dictated by the STS process.
+-    If you are in STS 4500 now: When you get to the end of STS 4600, you will need to get their signature on more cover letters, so you'll have to check back in with them at the end of STS 4600 next semester.
+-    You will need to fill out the [CS capstone completion & exit survey](https://docs.google.com/forms/d/e/1FAIpQLSc8e_SG92h721RqVqaFFRi1HRJNH9R-rkaaBoT2pqKVJDgdAw/viewform).  You have to wait until you receive approval of your technical report before you fill it out!
+
+
+The last step is for one of your CS electives to count as your capstone class.  I will be handling this process.  However, that can't happen until AFTER the semester ends.  I'll email those students when that process is done.
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week14'>Week 14 (week of Mon, Nov 23rd)</a>
