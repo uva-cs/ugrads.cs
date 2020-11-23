@@ -338,3 +338,20 @@ Best,
 
 
 ### <a name='week14'>Week 14 (week of Mon, Nov 23rd)</a>
+
+Hi, all,
+
+Welcome to the end of the semester!  This will be my last weekly capstone email until next year.  For the rest of the semester (meaning until finals week is over), I will only directly email those specific students that are still working through the process.
+
+If you are completing the capstone process in the spring, then stay on this email list.  The next email I will be sending out to this list will be around the start of the spring semester, when we will start the process anew for the spring.  There is no need for cs-capstone list emails between now and then.
+
+Approvals from your faculty technical advisors should be coming in this week, if I have not already received them.  I am sending out a confirmation email to the students when I receive that approval.  I'm always behind with my email, so that confirmation email may come a few days later.  The last thing you need to do, once you have received the email confirmation from me, is to fill out the [CS capstone completion & exit survey](https://docs.google.com/forms/d/e/1FAIpQLSc8e_SG92h721RqVqaFFRi1HRJNH9R-rkaaBoT2pqKVJDgdAw/viewform).
+
+If you have received approval of your technical report, AND you have received an email from me confirming this, AND you have completed the [CS capstone completion & exit survey](https://docs.google.com/forms/d/e/1FAIpQLSc8e_SG92h721RqVqaFFRi1HRJNH9R-rkaaBoT2pqKVJDgdAw/viewform), then you are done.  Congratulations!  You can unsubscribe from this e-mail list.  I will let you know sometime in December when the SIS exception has been entered to count one of your CS electives for the capstone course.
+
+If you are still waiting for capstone approval, then I will be emailing you specifically sometime next week to check in on your progress.
+
+Have a great winter break, everybody!  And stay healthy!
+
+Best,  
+-Aaron Bloomfield
