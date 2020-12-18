@@ -92,20 +92,20 @@ Below is a set of five possible categories for projects.  Different projects are
 
 The semester starts on Tuesday, August 25th; this is week 1 of the semester.  The items listed below happen some time during that week, and not necessarily by the start of the week.  Also, this timeline is subject to change, with appropriate notification to the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/admin/cs-capstone) email list.
 
-- Week 1 (week of Mon, Aug 24th): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.  That form is a Piazza group via [this collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778) that any UVa student can join.
-- Week 2 (week of Mon, Aug 31st): students work to generate project ideas.
-- Week 3 (week of Mon, Sep 7th): students fill out a online survey as to what courses their projects will combine.
-- Week 4 (week of Mon, Sep 14th): students are assigned to two faculty reviewers: a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.
-- Week 5 (week of Mon, Sep 21st): students write the abstracts for their projects and submit them.
-- Week 6 (week of Mon, Sep 28th): faculty review the abstracts and provide comments, including ensuring that the scope of the project is appropriate.
-- Week 7 (week of Mon, Oct 5th): if the abstracts need revision, then this week is for those revisions.
-- Week 8 (week of Mon, Oct 12th): students work on the project.
-- Week 9 (week of Mon, Oct 19th): students work on the project.
-- Week 10 (week of Mon, Oct 26th): students work on the project.
-- Week 11 (week of Mon, Nov 2nd): students write the paper.
-- Week 12 (week of Mon, Nov 9th): students submit the paper; faculty review starts.
-- Week 13 (week of Mon, Nov 16th): faculty review continues.
-- Week 14 (week of Mon, Nov 23rd): faculty provide feedback on the paper; if feedback is that the paper is acceptable, then this capstone process is complete.
+- Week 1 (week of Mon, Feb 1st): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.  That form is a Piazza group via [this collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778) that any UVa student can join.
+- Week 2 (week of Mon, Feb 8th): students work to generate project ideas.
+- Week 3 (week of Mon, Feb 15th): students fill out a online survey as to what courses their projects will combine.
+- Week 4 (week of Mon, Feb 22nd): students are assigned to two faculty reviewers: a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.
+- Week 5 (week of Mon, Mar 1st): students write the abstracts for their projects and submit them.
+- Week 6 (week of Mon, Mar 8th): faculty review the abstracts and provide comments, including ensuring that the scope of the project is appropriate.
+- Week 7 (week of Mon, Mar 15th): if the abstracts need revision, then this week is for those revisions.
+- Week 8 (week of Mon, Mar 22nd): students work on the project.
+- Week 9 (week of Mon, Mar 29th): students work on the project.
+- Week 10 (week of Mon, Apr 5th): students work on the project.
+- Week 11 (week of Mon, Apr 12th): students write the paper.
+- Week 12 (week of Mon, Apr 19th): students submit the paper; faculty review starts.
+- Week 13 (week of Mon, Apr 26th): faculty review continues.
+- Week 14 (week of Mon, May 3rd): faculty provide feedback on the paper; if feedback is that the paper is acceptable, then this capstone process is complete.
 
 All classes end the Tuesday of week 14 (on Tuesday, Nov 24th), which is just before Thanksgiving.  The two weeks after Thanksgiving are for final exams, and will be used for the capstone timeline if necessary.
 
