@@ -90,7 +90,7 @@ Below is a set of five possible categories for projects.  Different projects are
 
 ### Timeline
 
-The semester starts on Tuesday, August 25th; this is week 1 of the semester.  The items listed below happen some time during that week, and not necessarily by the start of the week.  Also, this timeline is subject to change, with appropriate notification to the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/admin/cs-capstone) email list.
+The spring 2021 semester starts on Monday, February 1st; this is week 1 of the semester.  The items listed below happen some time during that week, often -- but not necessarily -- on the Monday of that week.  Also, this timeline is subject to change, with appropriate notification to the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/admin/cs-capstone) email list.
 
 - Week 1 (week of Mon, Feb 1st): students are provided with the full details about the capstone, and are provided a forum to find teammates, if desired.  That form is a Piazza group via [this collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778) that any UVa student can join.
 - Week 2 (week of Mon, Feb 8th): students work to generate project ideas.
