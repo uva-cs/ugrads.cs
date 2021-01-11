@@ -9,6 +9,10 @@ sortorder: 10
 
 If you are planning on fulfilling your capstone requirement via CS 4980 (the Capstone Research path), then nothing changes for you; these details are just for those who want to take the Capstone Practicum path.  You can read the details below, under "Capstone Research", for information about this path.
 
+# Quick version for spring 2021
+
+Please ensure you are signed up for the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/info/cs-capstone) email list.  An email will be sent out to that list to start the spring capstone process around the start of the semester.  You will be able to view any old emails sent out to that list [here](capstone_emails.html).
+
 ### Overview
 
 The Covid-19 pandemic has made the CS 4970/4971 capstone practicum impractical, as in-person group-based projects with in-person customer meetings are no longer viable.  For all students who are going to graduate prior to the end of 2021 (meaning on or before December 2021), the department is offering a different capstone process.
