@@ -19,6 +19,8 @@ Students who are graduating in May of 2021 cannot graduate until the capstone re
 
 The intent for the spring of 2021 is still to enter all of the SIS exceptions at the end of the semester.  This means that you will still receive notifications from the SEAS undergraduate office that your graduation requirements have not been met yet.  However, somebody in the CS department will personally check each and every student's SIS reports and ensure that the only graduation requirement that is missing is this SIS exception for the capstone, and each student will receive an individual email about this.
 
+It is important to note that you will still graduate on time as long as these SIS exceptions are in place by about a week or so before you graduate -- this has been verified with the SEAS undergraduate office.  The intent of the February 16th deadline is because that is when the SEAS add deadline is, and students cannot add anymore classes (to fulfill any missing graduation requirements) after that date.  However, the department can -- and will -- enter the SIS exceptions for the capstone course later in the semester, and still allow for an on-time graduation.
+
 We realize that this is a less ideal solution than we all wanted, and we apologize for the hassle this is likely to cause.
 
 ### Overview
