@@ -13,6 +13,14 @@ If you are planning on fulfilling your capstone requirement via CS 4980 (the Cap
 
 Please ensure you are signed up for the [cs-capstone@virginia.edu](https://lists.virginia.edu/sympa/info/cs-capstone) email list.  An email will be sent out to that list to start the spring capstone process around the start of the semester.  You will be able to view any old emails sent out to that list [here](capstone_emails.html).
 
+### <a name='sisissue'>Capstone and SIS graduation requirements</a>
+
+Students who are graduating in May of 2021 cannot graduate until the capstone requirement has been satisfied on their SIS academic report.  However, the capstone requirement will not be satisfied until the *end* of the spring semester, and the SIS exception cannot be entered until then (if you haven't read below, then the quick summary is that an additional CS elective will be used to count for the CS capstone requirement once the capstone technical report has been approved).  This presents a problem, as the SEAS undergraduate engineering office wants all SIS requirements fulfilled by February 16th (the SEAS add date).  We cannot enter these SIS exceptions for the capstone early, as that would be indicating that you have completed a requirement when you haven't, which is against a whole host of policies and accreditation requirements.
+
+The intent for the spring of 2021 is still to enter all of the SIS exceptions at the end of the semester.  This means that you will still receive notifications from the SEAS undergraduate office that your graduation requirements have not been met yet.  However, somebody in the CS department will personally check each and every student's SIS reports and ensure that the only graduation requirement that is missing is this SIS exception for the capstone, and each student will receive an individual email about this.
+
+We realize that this is a less ideal solution than we all wanted, and we apologize for the hassle this is likely to cause.
+
 ### Overview
 
 The Covid-19 pandemic has made the CS 4970/4971 capstone practicum impractical, as in-person group-based projects with in-person customer meetings are no longer viable.  For all students who are going to graduate prior to the end of 2021 (meaning on or before December 2021), the department is offering a different capstone process.
@@ -127,7 +135,7 @@ All Engineering students have to complete a senior thesis -- and generate a seni
 - A *thesis*, which you will write in STS 4600 (and STS 4600 guides you through the writing of the thesis)
 - A *technical report*, which is what you create through the process described on this page
 
-Those three parts are combined, along with a few other single page documents (cover, signature page, socio-technical synthesis, etc.) to create the final senior thesis binder.  In the past, this was printed and bound into a binder (hence the "binder" name for it all), but the pandemic will likely change that to an online PDF submission.  The only part of the senior thesis binder that a graduating 4th year's major department deals with is the technical report; all other aspects are handled via the STS 4500/4600 sequence of classes.
+Those three parts are combined, along with a few other single page documents (cover, signature page, SO-technical synthesis, etc.) to create the final senior thesis binder.  In the past, this was printed and bound into a binder (hence the "binder" name for it all), but the pandemic will likely change that to an online PDF submission.  The only part of the senior thesis binder that a graduating 4th year's major department deals with is the technical report; all other aspects are handled via the STS 4500/4600 sequence of classes.
 
 Disclaimer: this section is for informational purposes only; the formal process for the STS senior thesis binder is specified by STS, and what is above is my understanding.  Your STS instructor(s) will lay out the specific details of the process, which obviously override what is listed here.
 
