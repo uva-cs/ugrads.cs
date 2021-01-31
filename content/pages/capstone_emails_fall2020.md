@@ -1,4 +1,4 @@
-Title: BSCS Capstone Emails
+Title: BSCS Capstone Emails, fall 2020
 url: capstone_emails_fall2020.html
 save_as: capstone_emails_fall2020.html
 sortorder: 12
