@@ -35,6 +35,21 @@ Best,
 
 ### <a name='week2'>Week 2 (week of Mon, Feb 8th)</a>
 
+Hi, all,
+
+I hope your semesters are starting off well!  Some notes and updates:
+
+- My plan is to email this list once a week, ideally on Mondays, to keep everybody updated with what's going on, due dates, upcoming schedule, etc.  My intent is that this is often enough to keep everything on track without inundating your inboxes with emails from me.  There will be occasional non-Monday emails as well, but hopefully there will be few of those.
+- If you are planning on doing the capstone this fall, then I hope you are able to use this week to generate an idea for your capstone.  You can see possible capstone projects categories on the [capstone page](http://ugrads.cs.virginia.edu/capstone).  Recall that a capstone project has to somehow combine two CS electives.  Pick a project or idea that interests you and go for it.
+- There is a [Collab workspace](https://collab.its.virginia.edu/portal/site/ef58f425-8e91-45d5-b891-e13cf0094778) that you are welcome to join if you want to try to find a capstone group.  The main feature of that workspace is a Piazza forum that you can use to find others to work with.  This is completely optional, but is a venue for finding groups.  Keep in mind that capstones can be done individually as well, and the work load does not decrease with increasing group size.
+- Pretty much all of you got a notice from Jesse Rogers about not having completed the requirements for graduation due to missing a capstone.  We are working through these for each of you (we have a list of those students in that category), and will be back in touch BEFORE next Monday (as Monday is the add deadline).  We may be able to generate a report of those who are missing more than just the capstone requirement, and email those separately.  Either way, you'll receive another email, either via this list or individually, making your status clear.
+- Next week I'm going to be sending out a survey that all those who want to do the capstone this semester will have to fill out.  The survey will ask what two courses you plan to combine in your capstone, who you want to work with (or if you want to work individually), etc.  Sending this out next week is in line with the original schedule, which is on the [capstone page](http://ugrads.cs.virginia.edu/capstone).  The week after I'll release the faculty reviewer assignments, and then we can work through the abstract submission; information on how to write and submit the abstract will be forthcoming when we get to that point.
+
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week3'>Week 3 (week of Mon, Feb 15th)</a>
 
 ### <a name='week4'>Week 4 (week of Mon, Feb 22nd)</a>
