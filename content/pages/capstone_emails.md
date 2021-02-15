@@ -52,6 +52,24 @@ Best,
 
 ### <a name='week3'>Week 3 (week of Mon, Feb 15th)</a>
 
+Hi, all,
+
+
+Welcome to week 3 of the semester! Some capstone updates:
+
+-    Time to fill out the project matching survey!  Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd-oakuTVvQfyunnNrtemHB4NDy3jnPkry4l-fSHbp5EAu38Q/viewform) with the information about your proposed capstone topic.  You have a bit of time to get this filled out, but it will have to be done by the end of next Monday.
+- We have checked through everybody's graduation requirements.  If you are missing something, either CS capstone related or otherwise, then you will have already received an email from myself or Jesse Rogers.  There were only three students who may be missing the extra elective, and I just emailed them this afternoon.  If you didn't receive such an email, then you are all set.
+-    Recall that all the capstone information is shown at [http://ugrads.cs.virginia.edu/capstone](http://ugrads.cs.virginia.edu/capstone), and we are currently on track with the timeline listed there.
+-    For your STS 4600 classes, you will have two assigned faculty reviewers in a week or two, and one of them will be the designated one to be listed as your technical advisor.
+
+
+That's all I have for now. Stay healthy, everybody!
+
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week4'>Week 4 (week of Mon, Feb 22nd)</a>
 
 ### <a name='week5'>Week 5 (week of Mon, Mar 1st)</a>
