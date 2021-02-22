@@ -72,6 +72,36 @@ Best,
 
 ### <a name='week4'>Week 4 (week of Mon, Feb 22nd)</a>
 
+Hi, all,
+
+Here's the weekly capstone update for this week! I hope everybody is staying healthy and safe.
+
+If you are completing the capstone process this spring, you will need to fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd-oakuTVvQfyunnNrtemHB4NDy3jnPkry4l-fSHbp5EAu38Q/viewform) **by the end of the day today.** Tomorrow morning I'm going to start the faculty matching process. I hope to have that completed by the end of this week.
+
+Some students have indicated that they do not understand the STS 4500/4600 process or what is required for the completion of the senior thesis. I have put my understanding of it below in an effort to help clarify the process. KEEP IN MIND that I am faculty in computer science, not STS, so anything that they say overrides anything that I say.
+
+That's all for now.  I hope to have the faculty matches soon.  Next week's email will contain information how to contact your faculty advisor and proceed with submitting your abstract.
+
+Best,
+-Aaron Bloomfield
+
+
+
+**The STS 4500/4600 process:** first, a disclaimer: I am faculty in computer science, not STS, so anything that they say overrides anything that I say; I am providing this to help alleviate confusion.
+
+
+While the course goals of STS 4500 and 4600 are numerous, among other things they will guide you through the process of completing your senior thesis. To successfully finish STS 4600, you will need to complete your **senior thesis binder**, which will consist of three main components: a *prospectus*, a *STS thesis*, and a *technical report*. Note that the STS department may use slightly different names for everything, but the concepts should all be the same.
+
+-    The *prospectus* is what you complete(d) in STS 4500, and it is where you propose a research project and perform the background work to ensure that it's a realistic idea, is asking a valid question, it will contribute to society, etc.
+-    The *STS thesis* is what you complete in STS 4600. This is where you perform the investigation research proposed in the prospectus, which may largely involve looking up information in libraries or online.
+    -        There is a naming problem here -- the term "senior thesis" means this entire process, and to fulfill that you have to complete the senior thesis binder. The "STS thesis" is what you complete in STS 4600. The fact that they both have the word "thesis" in it causes a lot of confusion. I will always put the prefix of "senior" or "STS" in front of the word "thesis" to help clarify which one I'm talking about.
+    -        While technically the topic of your prospectus and your STS thesis do not have to be the same, they often are -- and it will likely be easiest if they are.
+-    The *technical report* is what you write with your home department (dual majors just choose one). This is written with, and approved by, your faculty technical advisor.
+    -        In a perfect world, your technical project will directly relate to the topic you choose for your prospectus and STS thesis. But if they don't -- which is often the case -- you will have to write a document that describes how they relate. This is the socio-technical synthesis. I have seen a lot of ... creativity ... with these documents.
+
+These three main components are combined with a few other one or two page documents (cover, signature page, socio-technical synthesis, etc.) to form the full senior thesis binder. This binder is required to be completed in order to successfully complete (i.e., pass) STS 4600. In the past, this had to actually be printed and bound, but I suspect it's all being done via a PDF these days.
+
+
 ### <a name='week5'>Week 5 (week of Mon, Mar 1st)</a>
 
 ### <a name='week6'>Week 6 (week of Mon, Mar 8th)</a>
