@@ -82,7 +82,7 @@ Some students have indicated that they do not understand the STS 4500/4600 proce
 
 That's all for now.  I hope to have the faculty matches soon.  Next week's email will contain information how to contact your faculty advisor and proceed with submitting your abstract.
 
-Best,
+Best,  
 -Aaron Bloomfield
 
 
