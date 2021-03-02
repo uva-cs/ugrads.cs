@@ -114,8 +114,6 @@ The faculty reviewer assignments are ready.  To view them, go to the "CS Capston
 
 **Abstracts:** The next step is for you to write an abstract.  This is a summary of your project, and you can start with what you wrote in the original Google form submission, which I've also put in the Posted Feedback tool for your reference.  I put guidelines to abstract writing below.  You can submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdYyG4SisoqyeBUs3_gTKsjBEK0LUY3bk9V7YzuXVjWzihuWA/viewform), and they are due by Monday -- please only submit one PER GROUP.
 
-Next week you will have to submit your abstracts to another Google form, and I will have that info ready by Monday.
-
 Best,  
 -Aaron Bloomfield
 
