@@ -104,6 +104,39 @@ These three main components are combined with a few other one or two page docume
 
 ### <a name='week5'>Week 5 (week of Mon, Mar 1st)</a>
 
+ Hi, all,
+
+Sorry this is coming out a day late!
+
+The faculty reviewer assignments are ready.  To view them, go to the "CS Capstone" Collab workspace (you've all just been added to it) and look in the Posted Feedback tool.  You also will have to start writing an abstract, which I detail below.
+
+**Faculty reviewer assignments:** Each group has been assigned two faculty reviewers, a primary and a secondary.  *There is no need to contact them just yet,* as we have another step (the abstract submissions) to do first.  All the people who requested to be in a group are in those groups.  And the group number listed is just an internal designation to help me keep everything straight -- you'll need to use that number when submitting anything to me for this capstone process.  I have also included what you submitted for your project description.
+
+**Abstracts:** The next step is for you to write an abstract.  This is a summary of your project, and you can start with what you wrote in the original Google form submission, which I've also put in the Posted Feedback tool for your reference.  I put guidelines to abstract writing below.  You can submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdYyG4SisoqyeBUs3_gTKsjBEK0LUY3bk9V7YzuXVjWzihuWA/viewform), and they are due by Monday -- please only submit one PER GROUP.
+
+Next week you will have to submit your abstracts to another Google form, and I will have that info ready by Monday.
+
+Best,  
+-Aaron Bloomfield
+
+
+
+
+__Abstract writing 101__
+
+An abstract is a one or two paragraph summary of a paper or, in this case, of the project you want to write.  You should start with the project description that you submitted, which is also included in the Posted Feedback tool.  The abstract is meant to give an overview of the paper / project.  Although it about a project idea at this point, you are likely to use this abstract in your technical paper later in the semester.
+
+This is not a high stress task -- neither your capstone, nor your graduation, nor your happiness and success in life will depend on the quality of this first draft, so just do your best.  But it will take a bit of your time (an hour or two).
+
+As a start to writing an abstract, look at [this abstract writing guide](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/).  In the "contents of an abstract" section, try writing one sentence on each of those seven enumerated points.  It may be that one or two of those points may require two sentences, but not too many, as you don't want your abstract to be too long.  Then edit (and re-edit!) (and re-edit again!) the abstract until it flows smoothly and you feel it gives and overview.
+
+A note of caution: other classes may have students write to a certain page length, or add "fluff" to a document to make it longer.  Here, "fluff" is when extra verbiage is added that does nothing to be informative but just adds length.  Of course you all would never do this, but you may have friends who have done this.  As a pretty universal rule, our CS faculty tend to not like fluffy abstracts, as it's just a waste of everybody's time -- it wastes your time writing it and our time reading it.  I've made students completely rewrite their technical reports because they added it a lot of fluff.  We are looking for short, concise, and to the point.  That being said, it should still be correct English and explain everything well.  Just don't try to add length for the sake of adding length.
+
+Lastly, keep in mind that writing a good abstract is a bit of an art form, and nobody expects you all to be experts on this, as this is likely the first abstract that you will have written.  So give it your best shot, don't stress too much over it, and I'll send out instructions on Monday about how to submit the abstracts.
+
+I would expect that writing and editing the abstract would take an hour or two.  Your mileage may vary, of course.
+
+
 ### <a name='week6'>Week 6 (week of Mon, Mar 8th)</a>
 
 ### <a name='week7'>Week 7 (week of Mon, Mar 15th)</a>
