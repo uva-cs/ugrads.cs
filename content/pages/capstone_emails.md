@@ -137,6 +137,19 @@ I would expect that writing and editing the abstract would take an hour or two. 
 
 ### <a name='week6'>Week 6 (week of Mon, Mar 8th)</a>
 
+Hi, all,
+
+Sorry this update is a day late.  I've been working hard on ensuring that nobody gets "lost" in this whole process, which has taken a lot of my cycles in the last day or two.
+
+**Action required:** if you haven't already, please enter your abstracts into the form here. Presumably you have been working on them since my email last week. Keep in mind that they don't need to be perfect -- just as well polished as you are able to do. If you haven't written it yet, then please do so ASAP. This is not a high stress task -- neither your capstone, nor your graduation, nor your happiness and success in life will depend on the quality of this first draft, so just do your best. See my email from last week for directions for how to write it.
+
+Please only enter ONE form submission per team group. **They are due by the end of this Wednesday (3/10).**  As you have (presumably) worked on them, it should just be a quick cut-and-paste into that form.  (I had originally wanted them due yesterday, but that deadline got delayed by two days, so they are now due tomorrow).
+
+Late this week I will send them to the faculty, and then you can then start chatting with them about the next steps -- how to start that conversation will be the subject of my update next Monday.  This may seem like slow steps as we start this process, but we are still on the schedule shown [here](http://ugrads.cs.virginia.edu/capstone).
+
+Best,  
+-Aaron Bloomfield
+
 ### <a name='week7'>Week 7 (week of Mon, Mar 15th)</a>
 
 ### <a name='week8'>Week 8 (week of Mon, Mar 22nd)</a>

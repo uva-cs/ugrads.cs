@@ -111,8 +111,8 @@ The spring 2021 semester starts on Monday, February 1st; this is week 1 of the s
 - Week 3 (week of Mon, Feb 15th): students fill out a online survey as to what courses their projects will combine.
 - Week 4 (week of Mon, Feb 22nd): students are assigned to two faculty reviewers: a primary and a secondary; the primary is to be listed as their technical advisor for STS purposes.
 - Week 5 (week of Mon, Mar 1st): students write the abstracts for their projects and submit them.
-- Week 6 (week of Mon, Mar 8th): faculty review the abstracts and provide comments, including ensuring that the scope of the project is appropriate.
-- Week 7 (week of Mon, Mar 15th): if the abstracts need revision, then this week is for those revisions.
+- Week 6 (week of Mon, Mar 8th): students finish writing the abstracts, and they are sent to the faculty.
+- Week 7 (week of Mon, Mar 15th): students contact the faculty to get approval for the abstracts; if necessary, they are revised.
 - Week 8 (week of Mon, Mar 22nd): students work on the project.
 - Week 9 (week of Mon, Mar 29th): students work on the project.
 - Week 10 (week of Mon, Apr 5th): students work on the project.
