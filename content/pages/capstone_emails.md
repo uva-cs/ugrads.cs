@@ -152,6 +152,27 @@ Best,
 
 ### <a name='week7'>Week 7 (week of Mon, Mar 15th)</a>
 
+Hi, all,
+
+All the abstracts have been submitted, the faculty technical advisors have been notified, and you can go ahead and contact them.  The purpose of this is to get their approval for the abstract and project -- they will help ensure it's within scope, it's reasonable, has the right amount of work, etc.  That approval should come in some form of email.  If I am not CC'ed on that email by the faculty members, please forward it onto me so that I can keep track.  Details about what to include in that email are below.
+
+If they don't approve, then you will be working with them to specify an appropriate project.  Once you do get that approval, you should start working on the project.  This is expected to happen over the next few weeks.  We are currently in week 7 of the semester, and the timeline has this week (once you get approval) and the next three weeks (through the end of week 10) to work on the project.  Note that I will continue to regularly email you all on Mondays, but the next three emails aren't going to have much content, since that is when you will be working on the projects.
+
+For the email, you should include the following bullet points.  PLEASE REWRITE THIS YOURSELF -- I am purposely NOT including a draft, as it's appropriate for you all to write it yourself and not copy my text.
+
+- Introduce yourself as their technical project advisee(s)
+    - You should be emailing **both** of the faculty technical advisees (primary and secondary)
+    - If you are in a group, then this email should come from just one of you, and CC the rest of you
+- Ask them if they have had a chance to look over the abstract that you submitted (they got a copy in an email from me) and what their thoughts were about it
+    - They will either approve it as written, want to talk about it (at which point you can set up a Zoom call), or not approve it as is (at which point you will also have to set up a Zoom call)
+- Ask them if they have any comments about the project for you
+
+That's pretty much it -- hit all the salient ideas above, but keep it short and to the point.  And if you forget who your faculty advisors are, or what their email IDs are, you can check in the Posted Feedback tool in the "CS Capstone" workspace.
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week8'>Week 8 (week of Mon, Mar 22nd)</a>
 
 ### <a name='week9'>Week 9 (week of Mon, Mar 29th)</a>
