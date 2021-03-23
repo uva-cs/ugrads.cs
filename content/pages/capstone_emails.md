@@ -175,6 +175,28 @@ Best,
 
 ### <a name='week8'>Week 8 (week of Mon, Mar 22nd)</a>
 
+Hi, all,
+
+Welcome to week 8 of the semester!  We are more than half-way done with classes.
+
+I believe that everybody is in one of four states at this point:
+
+- **You have not yet contacted your technical advisor(s):** I'm not sure what you are waiting for, as this capstone project is not going to complete itself.
+- **You have emailed your technical advisor(s), but they have not yet responded:** please email them again today.  If you haven't heard back by Wednesday evening, then let me know, and I will help ensure that they respond to you.
+- **You and your technical advisor are discussing the project:** continue with those discussions, and -- presumably -- you will shortly be able to specify, and get approval for, a viable project.
+- **Your technical advisor(s) have approved the project:** ensure that I was CC'ed on the approval email (if not, forward it to me), and start working on the project itself.  I do a reply-all to confirm when I have received an abstract approval, so if you didn't get such a response, please forward me that email again (I'm still working through today's emails, though).
+
+
+If none of these four states apply to you, please send me an email detailing your situation.
+
+The schedule, from the [capstone website](http://ugrads.cs.virginia.edu/capstone), has this week and the next two weeks dedicated to working on the project.  Please don't wait until the very last minute to start working on it.
+
+Stay healthy!
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week9'>Week 9 (week of Mon, Mar 29th)</a>
 
 ### <a name='week10'>Week 10 (week of Mon, Apr 5th)</a>
