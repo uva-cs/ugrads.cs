@@ -199,6 +199,18 @@ Best,
 
 ### <a name='week9'>Week 9 (week of Mon, Mar 29th)</a>
 
+Hi, all,
+
+I have capstone abstract approvals from many of you. I just sent an email to those that I do **not** have an approved abstract for. If you didn't get an email from me about 5 minutes ago, then I have your abstract approval recorded.  Note that I also confirmed each capstone approval with the students in each group when I received it.
+
+This week and next week are for you to work on the project itself.  I'll be sending out instructions for writing the technical report next week, and you can get started on it as soon as you finish your project.  There isn't much else for this week's update.
+
+Stay healthy!
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week10'>Week 10 (week of Mon, Apr 5th)</a>
 
 ### <a name='week11'>Week 11 (week of Mon, Apr 12th)</a>

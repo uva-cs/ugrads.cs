@@ -51,7 +51,7 @@ Below is a set of five possible categories for projects.  Different projects are
 **Propose a new tool:** The students shall propose a new software tool to help some group in some way.  Tools that help the broader community and have a broader impact are encouraged; it need not be a tool for CS or computer scientists.  The tool can be a new programming language, a new library, additional features added to an existing system / language, etc.  It can also be a software system that helps some aspect of society.  The proposal must be sufficiently detailed so that the reader understands what is fully being proposed, as well as an analysis of the feasibility.
 
 - The faculty reviewer can judge how viable the implementation would be.
-- A full (or even partial) implementation project is not required. An implementation would likely be a separate and external project, which would be handled separately from this capstone requirement; such an implementation would fall under a CS 4980 project (see "Capstone Research", below).
+- A full (or even partial) implementation project is not required -- however, you still have to do *some* type of project to write the report on. An implementation would likely be a separate and external project, which would be handled separately from this capstone requirement; such an implementation would fall under a CS 4980 project (see "Capstone Research", below).
 - An acceptable project will include most of the following:
     - Use case: who wants this tool (even if they don't know they want it yet)?  If appropriate, include an analysis of who will pay, how income will be generated to pay the expected expenses, etc.
     - If not this, then what? How do people do this tool's work without the tool?
