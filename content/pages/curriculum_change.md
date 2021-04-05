@@ -98,30 +98,23 @@ students should consult the record for more details.
 
 # Q&A
 
-<dl>
-<dt>
-Which courses should I take?
-</dt><dd>
-Whichever are offered when you are ready for your second CS course.
-In practice, this generally means that if you take CS 2100, you use the new courses;
-if you take CS 2110, you use the old courses.
-</dd>
-<dt>
-I'm in a degree program not listed here. How will this effect me?
-</dt><dd>
-We haven't had official word from other degree programs yet.
-When we do, we'll add it here.
-</dd>
-<dt>
-I took some of the old courses, then took a year off and now the rest of the old courses are not offered. What do I do?
-</dt><dd>
-We'll need to come up with an individual plan to help your situation.
-Please contact your academic advisor in CS, who can put you in touch with the current curriculum change coordinator.
-</dd>
-<dt>
-I took some of the old courses and some of the new courses before I saw this. What do I do?
-</dt><dd>
-Generally, you'll need to pick one or the other to complete the degree.
-Please contact your academic advisor in CS to help decide which one to complete.
-</dd>
-</dl>
+- **Which courses should I take?**
+
+    Whichever are offered when you are ready for your second CS course.
+    In practice, this generally means that if you take CS 2100, you use the new courses;
+    if you take CS 2110, you use the old courses.
+
+- **I'm in a degree program not listed here. How will this effect me?**
+
+    We haven't had official word from other degree programs yet.
+    When we do, we'll add it here.
+
+- **I took some of the old courses, then took a year off and now the rest of the old courses are not offered. What do I do?**
+
+    You'll need an individual plan to help your situation.
+    Please contact your academic advisor in CS, who can put you in touch with the current curriculum change coordinator.
+
+- **I took some of the old courses and some of the new courses before I saw this. What do I do?**
+
+    Generally, you'll need to pick one or the other to complete the degree.
+    Please contact your academic advisor in CS to help decide which one to complete.
