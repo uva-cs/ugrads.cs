@@ -213,6 +213,85 @@ Best,
 
 ### <a name='week10'>Week 10 (week of Mon, Apr 5th)</a>
 
+Hi, all,
+
+Welcome to week 10 of the semester!
+
+As per the schedule, found here, this is a week for you to continue to work on the project.  Hopefully, you can start wrapping up the project this week as well.
+
+Here is what is left for you to do in this capstone process:
+
+- Finish the project itself
+- Write the technical report (see below)
+- Email that technical report to both of your faculty advisors
+    - They will either approve it as-is, or request some changes -- iterate on those changes until it is approved
+    - Note that it will take them some time to read the report and comment on it
+- Ensure that I am told or otherwise notified when it is approved, and I will send you a link to the exit survey
+
+
+You can start writing the report as soon as your project is done, and you can send it to your faculty reviewer as soon as it is written.
+
+Let's talk schedule.  The SIS exceptions, which will count your extra CS elective as the capstone class, have to be in place when classes end, which is Thursday, May 6th.  You need to get the technical reports to your faculty reviewers TWO WEEKS prior to that -- we'll say by April 23rd.  THIS DEADLINE HAS VERY LITTLE FLEXIBILITY -- if these things are not approved in time, it will interfere with your graduation.  Assume that it will take one week to write the report (you have to do a good job writing the technical report or else it won't get approved).  **This means that you have to finish the project NO LATER THAN Friday, April 16th, which is 11 days from today.**
+
+Below are the details for the writing of the report.  As always, please let me know if you run into problems.
+
+Best,  
+-Aaron Bloomfield
+
+&nbsp;  
+
+**__Technical report writing 101__**
+
+The technical reports are to be formatted as per the ACM guidelines for articles.  Note that technical report formatting is to be determined by the technical faculty advisor.
+
+The papers need to be formatted as per the guidelines [here](https://www.acm.org/publications/proceedings-template).  You can use Word or LaTeX; most of you will use the former.  If you are using Word, then you want to use the [Interim layout.docx](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx) file on that site.  This format is two-column, single spaced, size 10 font, standard margins, 5-6 pages, and will be somewhere between 4,000 to 5,000 words.
+
+You are welcome to use a group editing site (Google Docs, etc.) to edit the content, just be sure to put it in that format when it's done.  You will also want to send along a PDF when you send it to your faculty advisors.  Also note that your references need to be in the format specified in that template.
+
+The paper audience is other computer scientists -- so you don't need to explain what a database system is, for example.  You can assume that any readers of the paper have a degree in CS or -- like all of you -- are about to graduate with a degree in CS.
+
+In terms of length, the technical report should be 5 or so pages long.  That works out to somewhere between 4,000 and 5,000 words.
+
+Please don't include any fluff.  Fluff is when you add BS to the paper to make it longer.  You should not have problems getting the length required.  And if it's short, it's better to leave it short than add in fluff.  Many faculty will reject it outright if it contains fluff -- I know I would
+
+Below is a list of the sections of the paper.  Depending on your particular project, your list of sections may vary somewhat.
+
+- **Authors:** Underneath the title should be the list of authors -- for each author, you should ONLY list your name, affiliation ("University of Virginia") and your UVA email.
+- **Abstract:** this is what you got approved by your faculty advisor a few weeks ago.  Minor edits are fine, but you should check with your advisor if you are making any significant changes to it.
+- **CCS concepts and keywords:** you should remove these sections
+- **Introduction:** Describe the problem faced that the project seeks to fix.  How is this project solved currently?  How long does it take with the current solutions? What problems does the current way of solving it cause?  We are setting the stage for how and why your project will be beneficia.
+- **Background:** What do they need to know to understand the project?  Likely information about the domain that it's in, as well as the technologies used.  Keep in mind that the audience is computer scientists, so you don't need to go into detailed explanations about the technologies.  This section may be quite short -- or even removed -- depending on your particular project.
+- **Related work:** what other systems exist that do similar things? Are they custom written, or generic? Why don't they fit the bill?  This gives a context of what else is out there, so that one can understand where your system fits into everything.  Literature review projects will list other literature reviews or summaries of the research area here.
+- **System design:** how was the system (project) designed?  This should focus on two primary aspects: the overall system architecture (no low-level details!) and interesting/challenging/etc. design decision.  This will likely be the largest section, likely also with sub-sections.  Literature review projects will detail the various articles being reviewed here.
+- **Procedure:** If appropriate; this may be removed from your report if not appropriate.  How does the customer use the system?  How do other stakeholders use the system?
+- **Results:** The system solved some problem – what are the results of that?  There should be some evidence that this project fixed some problem -- present that evidence.  We aren't looking for a scientific study, so anecdotal evidence here is fine.  Get a couple of friends to try out the system, and ask them what they think of it.  Example: "The scheduler allowed the customer to prepare a schedule in 30 minutes, where it took 3 hours before."  Literature reviews will likely not have this section.
+- **Conclusions:** Summarize your article and your work: "We designed a system to meet the need of problem X."  Summarize (and repeat) the relevant results that make the system look good.  Literature reviews will summaries the common themes of the articles being reviewed.
+- **Future work:** If you had a full-time job for an entire year to work on this system -- and only this system -- what features would you add?  If you make this section too long, it will make it look like you didn't do anything on the project.  So maybe 1/2 of a column at most.
+- **References:** They need to look like the references in the template.
+
+
+__Other stuff to include__
+
+ - Feel free to add (or remove) sections -- what is listed here are just suggestions. 
+     - Indeed, some of the sections are not appropriate for all projects
+     - But most of the projects will have all of those sections, although not everybody will have background and procedure.
+ - Longer sections should include sub-sections
+ - Screen shots
+     - Screen shots, images, etc., are fine -- but this is not a picture book, so use these sparingly
+     - The article is not a picture book, but a screen shot or two is not unreasonable, as this can make it easier for the reader to visualize what is going on
+     - Total screen shot usage should not take up more than 1/2 page, total
+
+
+__Stuff to remove__
+
+In the templates, there are a few items that we do not need:
+
+ - The license block (very bottom of the 1st column on the first page)
+ - General terms and Subject Descriptions (likely not present)
+ - CCS categories
+ - Keywords
+
+
 ### <a name='week11'>Week 11 (week of Mon, Apr 12th)</a>
 
 ### <a name='week12'>Week 12 (week of Mon, Apr 19th)</a>
