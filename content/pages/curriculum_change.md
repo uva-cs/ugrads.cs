@@ -96,6 +96,53 @@ Or the AY 21-22 record (or later), which includes these courses:
 There are other requirements for each (including CS 2102 or 2120 and several CS electives);
 students should consult the record for more details.
 
+# Anticipated schedule of changes
+
+The exact change schedule will vary based on the speed at which the new BA CS program is approved (the following assumes it will be approved prior to Spring 2022) and the facility with which we can transition students who took old course prereqs into new or changed courses.
+
+Entries show "—" if the course is not planned on being offered;
+a new course number if a different course will satisfy this requirement;
+and "changed" if the course will remain, but its contents or prerequisites change.
+
+
+: New courses required by one or more degree program
+
+| Course | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024 and beyond |
+|:-------|:---------:|:-----------:|:---------:|:-----------:|:---------:|:----------------------:|
+| CS 2100| —         | Yes         | Yes       | Yes         | Yes       | Yes                    |
+| CS 2120| Yes       | Yes         | Yes       | Yes         | Yes       | Yes                    |
+| CS 2130| —         | Yes         | Yes       | Yes         | Yes       | Yes                    |
+| CS 3100| —         | —           | Yes       | Yes         | Yes       | Yes                    |
+| CS 3120| —         | —           | —         | Yes         | Yes       | Yes                    |
+| CS 3130| —         | —           | Yes       | Yes         | Yes       | Yes                    |
+| CS 3140| —         | —           | Yes       | Yes         | Yes       | Yes                    |
+| CS 3240| Yes       | Yes         | Yes       | Yes         | Changed\* | Changed\*              |
+| CS 4457| Yes       | Yes         | Yes       | Yes         | Yes       | Changed\*              |
+
+
+: Old courses required by one or more degree program
+
+| Course | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024 and beyond |
+|:-------|:---------:|:-----------:|:---------:|:-----------:|:---------:|:----------------------:|
+| CS 2102| CS 2120   | CS 2120     | CS 2120   | CS 2120     | CS 2120   | CS 2120                |
+| CS 2110| Yes       | —           | —         | —           | —         | —                      |
+| CS 2150| Yes       | Yes         | —         | —           | —         | —                      |
+| CS 2330| Yes       | Yes         | ECE 2330  | ECE 2330    | ECE 2330  | ECE 2330               |
+| CS 3102| Yes       | Yes         | Yes       | Yes         | CS 3120†  | CS 3120†               |
+| CS 3240| Yes       | Yes         | Yes       | Yes         | Changed\* | Changed\*              |
+| CS 3330| Yes       | Yes         | Yes       | Yes         | Changed\* | Changed\*              |
+| CS 4102| Yes       | Yes         | CS 3100   | CS 3100     | CS 3100   | CS 3100                |
+| CS 4414| Yes       | Yes         | Yes       | Yes         | Yes       | Changed\*              |
+| CS 4457| Yes       | Yes         | Yes       | Yes         | Yes       | Changed\*              |
+
+
+\* Adds a prereq and changes content
+
+† Has extra prereqs compared to the course it replaces
+
+
+
+
 # Q&A
 
 - **Which courses should I take?**
