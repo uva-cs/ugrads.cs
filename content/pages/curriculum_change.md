@@ -105,8 +105,6 @@ a new course number if a different course will satisfy this requirement;
 and "changed" if the course will remain, but its contents or prerequisites change.
 
 
-: New courses required by one or more degree program
-
 | Course | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024 and beyond |
 |:-------|:---------:|:-----------:|:---------:|:-----------:|:---------:|:----------------------:|
 | CS 2100| —         | Yes         | Yes       | Yes         | Yes       | Yes                    |
@@ -118,9 +116,6 @@ and "changed" if the course will remain, but its contents or prerequisites chang
 | CS 3140| —         | —           | Yes       | Yes         | Yes       | Yes                    |
 | CS 3240| Yes       | Yes         | Yes       | Yes         | Changed\* | Changed\*              |
 | CS 4457| Yes       | Yes         | Yes       | Yes         | Yes       | Changed\*              |
-
-
-: Old courses required by one or more degree program
 
 | Course | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024 and beyond |
 |:-------|:---------:|:-----------:|:---------:|:-----------:|:---------:|:----------------------:|
