@@ -1,4 +1,4 @@
-Title: BSCS Capstone Emails
+Title: BSCS Capstone Emails, spring 2021
 url: capstone_emails.html
 save_as: capstone_emails.html
 sortorder: 11
@@ -293,6 +293,19 @@ In the templates, there are a few items that we do not need:
 
 
 ### <a name='week11'>Week 11 (week of Mon, Apr 12th)</a>
+
+Hi, all,
+
+Welcome to week #11!
+
+I wanted to start off with an apology -- there was clearly some consternation when I described the requirements for the technical report. While I am not the one setting the rules for this capstone -- only the person helping guide you all through it -- I clearly did not detail the requirements of the technical report early enough.  I will note that much of the technical report is a narrative of the project -- your thought process, the design decisions, the structure of the program / project / etc.  This is not "fluff", but a description of the project itself.  The details of what goes in the technical report can be found [here](http://ugrads.cs.virginia.edu/capstone_emails), in the email from week #10.
+
+Presumably you will be submitting your technical reports to your faculty reviewers soonish.  **Please CC me when you do so** (or, if you have already done so, forward me that email) -- I'm keeping track of when they are sent in, as I want to keep on top of the faculty reviewers to make sure they don't forget about reading through the reports.  But I can only do that when I know that they have received it.
+
+**Please be aware of the schedule.**  I need to have your reports approved by the end of the semester, which is 3.5 weeks away.  And the faculty reviewers will need 1.5 to 2 weeks to review the report, comment on them, and work through any edits with you.  That means you have 1.5 to 2 weeks to finish the project, write the report, and send it to your reviewers (CC'ing me as well).
+
+Best,  
+-Aaron Bloomfield
 
 ### <a name='week12'>Week 12 (week of Mon, Apr 19th)</a>
 
