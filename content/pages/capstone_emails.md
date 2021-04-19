@@ -309,6 +309,18 @@ Best,
 
 ### <a name='week12'>Week 12 (week of Mon, Apr 19th)</a>
 
+Hi, all,
+
+If you haven't already, you should be planning on getting **your technical report submitted to your faculty reviewers THIS WEEK.**
+
+**Please be aware of the schedule.** We have a timing constraint of the impending end of the semester, and the faculty reviewers need time to review the article, provide comments, have you edit it if necessary, etc.  If you are unable to get it submitted by next Monday, then it may not be reviewed in time for your graduation.  This is not me being cranky, just trying to ensure that busy faculty get the reviews done in time, and I need to give them a week or so to do it.  And keep in mind I'm just the messenger on this here -- this whole system was created by the department, not me.
+
+When you do submit it, please CC me so that I know it's submitted and when.  (If you forgot to do so, please forward me the email when you did submit it).  I'm keeping track of who submitted it and when, and will start pestering the faculty a week after you send it in to ensure that it is not forgotten about.
+
+Best,  
+-Aaron Bloomfield
+
+
 ### <a name='week13'>Week 13 (week of Mon, Apr 26th)</a>
 
 ### <a name='week14'>Week 14 (week of Mon, May 3rd)</a>
