@@ -323,4 +323,21 @@ Best,
 
 ### <a name='week13'>Week 13 (week of Mon, Apr 26th)</a>
 
+Hi, all,
+
+We're almost done!  Just another week and a half left of classes!
+
+The technical reports are due to your faculty reviewers TODAY.  Once it's in, your faculty reviewer may want you to make a few changes, but the majority of the work will be done at that point.
+
+When you send it in, **please CC me on that email, so that I can keep track.**  I follow up with the faculty members a week after you send it in, and keep on them until they approve or disapprove it.
+
+Starting tomorrow, I am going to be individually emailing all those who have not sent in their technical reports (or have not told me that they did so).
+
+Not much else to say this week.  I hope you all get to go out and enjoy the beautiful weather!
+
+Let me know if you have any questions.
+
+Best,  
+-Aaron Bloomfield
+
 ### <a name='week14'>Week 14 (week of Mon, May 3rd)</a>
