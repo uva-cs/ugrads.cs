@@ -341,3 +341,27 @@ Best,
 -Aaron Bloomfield
 
 ### <a name='week14'>Week 14 (week of Mon, May 3rd)</a>
+
+Hi, all,
+
+Happy end of the semester!  This is the last email I'll be sending out to this list.  Any future emails that I'll send are specific to you, and not for the whole list.
+
+Below is the list of steps that everybody has to finish, and everybody is at one of those points in the list.  I'll prompt all of you to complete each step, so you don't have to remember to do them.  But don't put off completing the steps when I prompt you, since we need those done to finish this whole process.
+
+- Submit your technical report (pretty much all done!)
+- Eventually get faculty reviewer approval
+    - I keep on the faculty, and remind them to review your technical report one week after you submit it to them.  And then I keep pestering them.  And then I ask the department chair to send them nasty-grams.  I've become very popular with the CS faculty lately for this reason.
+    - Note that you may need to make revisions to your technical report prior to approval, but that is between you and your faculty reviewer.
+- Once I receive notification of the approval of your technical report, I send you an exit survey for you to complete.  This survey takes all of 4 minutes to finish.
+    - You can't ignore filling this out, as your capstone SIS exception can't be entered without the information therein.  Some people are not filling it out, which really seems odd...
+    - No, you can't fill this out early.  I manually check and approve each form submission.
+- Once the survey is completed, we can enter the SIS exception.
+- I email you once the SIS exception is entered to let you know that you are all set.
+- Celebrate!
+
+That's all I got for today.  I'll keep on the faculty to get them to review your reports.  And if they request changes, please don't take too long to make those changes.
+
+Good luck finishing up with the end of your semester (capstone and otherwise)!  And I'll see all of you at graduation.
+
+Best,  
+-Aaron Bloomfield
