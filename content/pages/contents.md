@@ -6,9 +6,7 @@ sortorder: 2
 Many of the pages for this website are not displayed in the navigation bar above, and are shown in full here, sorted alphabetically.
 
 - [About](about.html)
-- [BSCS Capstone Emails](capstone_emails.html)
-- [Capstone](capstone.html)
-- [BSCS Capstone, pre-pandemic details](capstone_old.html)
+- [BS CS Capstone](capstone.html)
 - [Contents](contents.html)
 - [Curricular Practical Training (CPT)](CPT.html)
 - [Grading Guidelines](grading_guidelines.html)

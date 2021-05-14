@@ -1,7 +1,7 @@
 Title: BSCS Capstone Emails, spring 2021
 url: capstone_emails.html
 save_as: capstone_emails.html
-sortorder: 11
+sortorder: 21
 status:hidden
 
 This page has the archive of the emails that were (or will be) sent to the [cs-capstone email list](https://lists.virginia.edu/sympa/info/cs-capstone) for the spring 2021 semester.  The emails are generally (but not always) sent out on the Monday of each respective week.
