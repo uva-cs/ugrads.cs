@@ -5,7 +5,7 @@ sortorder: 1
 
 This page contains the links that are relevant for undergraduate majors in Computer Science and Computer Engineering.
 
-**Note:** The information about degree requirements contained on this website is for informational purposes only.  The Undergraduate Record  represents the official repository for academic program requirements. It may be found at: [http://www.virginia.edu/registrar/catalog/ugrad.html](http://www.virginia.edu/registrar/catalog/ugrad.html)
+**Note:** The information about degree requirements contained on this website is for informational purposes only and updates for this site ended in 2021.  The Undergraduate Record represents the official repository for academic program requirements. It may be found at: [http://www.virginia.edu/registrar/catalog/ugrad.html](http://www.virginia.edu/registrar/catalog/ugrad.html).  More current information can be found at: [http://advising.uvacs.org](http://advising.uvacs.org) or [https://engineering.virginia.edu/departments/computer-science/computer-science-undergraduate-advising](https://engineering.virginia.edu/departments/computer-science/computer-science-undergraduate-advising)
 
 Information for Fall 2020
 -------------------------
