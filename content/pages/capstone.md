@@ -24,6 +24,7 @@ __A:__ No, but Prof. Vrugtman will probably hold some occasional meeting times i
 
 __Q:__ How do I come up with my paper topic?      
 __A:__ Here are two prompts to consider:      
+
 - Describe an already completed computing experiential learning event ― internship, personal project, non-profit volunteer effort ― that offered documented value to a specific organization, community, or group. If appropriate, indicate how the project could be enhanced or redesigned for increased value.
 - Propose a synthesis of ideas from two completed CS courses that connects how topic(s) might be enhanced, extended, refined, or reworked.
 
